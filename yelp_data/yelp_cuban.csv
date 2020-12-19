@@ -1,0 +1,914 @@
+Business_ID,Name,Address,Coordinates,Num_of_Reviews,Rating,Zip_Code
+Rush-YaHg3WkxaVlFiLn-Q,The Cuban,39-17 Bell Blvd,"{'latitude': 40.76484, 'longitude': -73.7714817}",87,4.0,11361
+NOh24SMS6k4pzNv8Ds7KDg,Cafe Habana,17 Prince St,"{'latitude': 40.722998, 'longitude': -73.994171}",3156,4.0,10012
+UKy0nNjMkOBEU3dOCH831w,Cuba Restaurant and Rum Bar,222 Thompson St,"{'latitude': 40.729084, 'longitude': -73.998832}",1560,4.0,10012
+zekbMn7KWtzxTFLtfEqb1w,Rincon Criollo,40-09 Junction Blvd,"{'latitude': 40.7489644, 'longitude': -73.8690814}",809,4.5,11368
+jcZ0EKRhIkEk3a8iOv8Axg,Km1,58 East 1st St,"{'latitude': 40.72388, 'longitude': -73.989169}",2,5.0,10003
+vgg1dvDP-9tFWSacN4q0nA,Coppelia,207 W 14th St,"{'latitude': 40.7389111700125, 'longitude': -73.9999985153443}",1350,4.0,10011
+SyEi1P5FKCBiAIZ14RggmA,My Cuban Spot,488 Carroll St,"{'latitude': 40.6769086333056, 'longitude': -73.9861538242469}",218,4.5,11215
+hJrZIHNRVUuC_PXAORxj9g,Favela Cubana,543 LaGuardia Pl,"{'latitude': 40.7284702112794, 'longitude': -73.9979839324952}",1061,4.0,10012
+tJHmKLn1lWpaPuZTZrDgsA,Havana NY,58 W 38th St,"{'latitude': 40.75189, 'longitude': -73.98517}",286,4.0,10018
+knGthxUt9OEdzDjM0oN5fw,Cubana Cafe,272 Smith St,"{'latitude': 40.682652, 'longitude': -73.9935}",373,3.5,11231
+UKDOoYu_g1HYBvs5TpdG6w,Amor Cubano,2018 3rd Ave,"{'latitude': 40.794776, 'longitude': -73.942703}",495,4.0,10029
+x2WubWdziN7qqUZehdp1PA,Pilar Cuban Eatery,397 Greene Ave,"{'latitude': 40.68808, 'longitude': -73.9551}",325,4.0,11216
+H9GD7km7riFooM0FkdwOPg,Calle Ocho,2756 Broadway,"{'latitude': 40.801264, 'longitude': -73.967663}",2519,4.0,10025
+gEEqoeSekTOjRVmyY4fplA,Cabana,107-10 70th Rd,"{'latitude': 40.7208678329074, 'longitude': -73.8456881046295}",965,4.0,11375
+zQkjDxo8oDVGVj9cpTpUig,Habana Outpost,757 Fulton St,"{'latitude': 40.68645, 'longitude': -73.97416}",1006,4.0,11217
+al9HKZ3kCJipAJW4uxzj4A,Havana Central,151 W 46th St,"{'latitude': 40.75831, 'longitude': -73.98416}",2343,4.0,10036
+StpOKezaW-AyN2xA1EJKvw,Victor's Cafe,236 W 52nd St,"{'latitude': 40.7629499, 'longitude': -73.98403}",1480,4.0,10019
+HApdNNztx8Q7VF_9vkoAUA,Guantanamera,939 8th Ave,"{'latitude': 40.7658919619653, 'longitude': -73.9837475423279}",914,3.5,10019
+ukOsBKML_Ph_hSyxv3gNlA,Sabor De Cuba,3703 31st Ave,"{'latitude': 40.76217, 'longitude': -73.918358}",350,4.0,11103
+4CObV3XU8VQ6nXeVS4vO0A,Margon,136 W 46th St,"{'latitude': 40.75787, 'longitude': -73.98398}",739,4.0,10036
+pBNMZp_tKCAfRNx7-ybcHQ,Calle Dao Chelsea,461 W 23RDST,"{'latitude': 40.7476138310811, 'longitude': -74.0035496218187}",655,4.5,10011
+AWjuFw0wn1ozYTp50-H_UQ,Millie's Cuban Cafe,151 Wilson Ave,"{'latitude': 40.7005231, 'longitude': -73.9248911}",75,4.5,11237
+fhSV2h8d43dwMG65WD8uig,Sophies Cuban Cuisine,76 Fulton St,"{'latitude': 40.708967, 'longitude': -74.005521}",176,3.0,10038
+VsqHs36uLxhqmjo60r1aJA,Habana To-Go,229 Elizabeth St,"{'latitude': 40.72292, 'longitude': -73.99418}",270,4.0,10012
+1HoAYPCCKf7cPOegvASCpg,Havana Heights,4083 Broadway,"{'latitude': 40.84421, 'longitude': -73.93917}",28,4.0,10033
+7zjeUx9aWRGpJmiOuk45zw,The Cuban Restaurant and Bar,333 Washington St,"{'latitude': 40.74099, 'longitude': -74.02945}",1006,4.0,07030
+H1jops1lmuhrq9lP7lEGJQ,Flor De Mayo,484 Amsterdam Ave,"{'latitude': 40.78609, 'longitude': -73.97658}",1188,4.0,10024
+YmAPpKeMuly7IIjpYcFhHw,Zona De Cuba,558 Grand Concourse,"{'latitude': 40.8188782, 'longitude': -73.9265215}",471,3.5,10451
+SyBFnqsPEge00N0_bHs2fQ,Madera Cuban Grill & Steakhouse,47-29 Vernon Blvd,"{'latitude': 40.744598, 'longitude': -73.953336}",418,3.5,11101
+6E1FMOKa4NvVEIo3ftT7bA,Cortadito Cuban Cuisine,210 E 3rd St,"{'latitude': 40.722483112365, 'longitude': -73.982784589542}",892,3.0,10009
+efxcTuq9Web2AWehfmYMQw,Tina's Cuban Cuisine,23 W 56th St,"{'latitude': 40.76306, 'longitude': -73.9757}",590,4.0,10019
+KzEWelsUm5zumC7s2RW1xA,Sophie's Cuban Cuisine,27 Smith St,"{'latitude': 40.69062, 'longitude': -73.98747}",145,3.5,11201
+dDmK_8LTgjcje8iuP6AMGA,Sophie's Cuban Cuisine,21 W 45th St,"{'latitude': 40.75605, 'longitude': -73.98041}",441,3.5,10036
+LQHegfNHe7ylY3bocrFlpg,Calle Dao - Bryant Park,38 W 39th St,"{'latitude': 40.7522888979927, 'longitude': -73.9841403450024}",1766,4.0,10018
+JTwUl0mo7t97CbbmjZ8WIQ,Guantanamera,110-80 Queens Blvd,"{'latitude': 40.718603, 'longitude': -73.838617}",135,3.5,11375
+AgAkUVLN_axMY-bzbNCfCw,Yuca Bar,111 Avenue A,"{'latitude': 40.7262, 'longitude': -73.9836}",1806,4.0,10009
+Ludz8x0jwOc7tdflk7f0GA,Sophie's Cuban Cuisine,401 E 68th St,"{'latitude': 40.765559, 'longitude': -73.957411}",180,3.0,10065
+8QnDeEDw4PUTxjsfflrrwg,La Isla Restaurant,104 Washington St,"{'latitude': 40.7377289, 'longitude': -74.0309783}",881,4.0,07030
+kgXNbPJcumyJ8LS83Hez8g,Sophie's Cuban Cuisine,73 New St,"{'latitude': 40.7056891, 'longitude': -74.0124735}",418,3.5,10004
+R1mLakJBtmK-KETUuLaGaA,Rumba Cubana,235 Pavonia Ave,"{'latitude': 40.72748, 'longitude': -74.043858}",309,4.5,07302
+31XD1NbLOoZ-cclsfdf97Q,El Nuevo Cibao,172 Smith St,"{'latitude': 40.68584, 'longitude': -73.99121}",176,4.0,11201
+_L5UsFTdaS55So7TbupSRw,The Cuban,987 Stewart Ave,"{'latitude': 40.73586, 'longitude': -73.59786}",534,3.5,11530
+4axlhxyN2bKuRWfnY2IhuQ,Tabaré,221 S 1st St,"{'latitude': 40.713046, 'longitude': -73.958968}",646,4.0,11211
+ucmwboeLLt12_8fg1ulquw,La Casa,54 Newark St,"{'latitude': 40.73689, 'longitude': -74.0301}",212,4.5,07030
+B87c3bE_u53yNYO1cmHSIw,Flor de Mayo,2651 Broadway,"{'latitude': 40.797859, 'longitude': -73.969948}",579,4.0,10025
+LvzN8TrUGJRj_UkJV0cAtQ,Empanada Mama - Hell's Kitchen,765 9th Ave,"{'latitude': 40.76441, 'longitude': -73.9885}",2489,4.0,10019
+2f-qNpdVJl2h9L6SHYuICA,Havana Cafe,3151 E Tremont Ave,"{'latitude': 40.8379, 'longitude': -73.83437}",823,4.0,10461
+2L20kuwaYbxza7EHbDuIYA,Tina's Cuban Cuisine,179 Madison Ave,"{'latitude': 40.74738, 'longitude': -73.98288}",289,3.5,10016
+rrDbftiFA6Pnl69FciCHHw,Gusto Latino,583 Driggs Ave,"{'latitude': 40.71618, 'longitude': -73.95719}",23,4.5,11211
+kXnwXZ5KOQmprxNrmXYuxg,Puerto Viejo,564 Grand Ave,"{'latitude': 40.67885, 'longitude': -73.96214}",470,4.0,11238
+LeF5JrQrqXlVCYVfmev9Yw,Rumba Cubana,1807 45th St,"{'latitude': 40.78407, 'longitude': -74.03364}",472,4.0,07047
+JamSV3KHacnssRP5IfUD1w,Sophie's Cuban Cuisine,1015 6th Ave,"{'latitude': 40.75226, 'longitude': -73.98631}",84,3.0,10018
+5qwk0BNZnm6jmq-M0kP3_Q,El Floridita,4162 Broadway,"{'latitude': 40.8471171674521, 'longitude': -73.9378327131271}",115,3.5,10033
+96svxj2NIOrba2fBMZAqOQ,Bogota Latin Bistro,141 5th Ave,"{'latitude': 40.678165, 'longitude': -73.978976}",2234,4.0,11217
+3hCi3e-Ea62tdSdcdioR1g,El Rinconcito,408 E 10th St,"{'latitude': 40.72553, 'longitude': -73.977}",78,4.5,10009
+c-YVhXvBBvAGkss9Y3sTbA,Pilar Cuban Bakery,397 Greene Ave,"{'latitude': 40.68808, 'longitude': -73.9551}",20,4.0,11216
+co7xTKlReWfp-f5HbEeK0w,Latin Cabana,34-15 Steinway St,"{'latitude': 40.7561773, 'longitude': -73.9211097}",266,3.5,11101
+VISwpz_sdcgN04k1SuC0yw,Sophie's Cuban Cuisine,369 Lexington Ave,"{'latitude': 40.7504731, 'longitude': -73.9767061}",307,3.5,10017
+-xeLK9VppWFh6AtP26Hxpg,Los Papi's,77 Bridge St,"{'latitude': 40.7021, 'longitude': -73.98444}",75,4.5,11201
+4fKYXE90bvuAyY_DvC2LOg,La Isla Restaurant - Uptown,25 12th St,"{'latitude': 40.7507544, 'longitude': -74.0252864}",329,3.5,07030
+bVoMSENCVORvxeEVwkh7AA,Rumba Cubana - Guttenberg,6909 Jfk Blvd E,"{'latitude': 40.79129, 'longitude': -74.000901}",570,4.0,07093
+o_r0-1tGDoP_HyEONWKqCw,Mojo Restaurant,70-20 Austin St,"{'latitude': 40.720588, 'longitude': -73.8464128}",300,4.0,11375
+NnP8swq9QN0JZiDLoNMSGQ,Jennifer's Cafe,67 1st Ave,"{'latitude': 40.725418, 'longitude': -73.987304}",29,4.0,10003
+SSw0GFDGE1BGM5scP8PpDg,Casa Cubana Catering,1007 Summit Ave,"{'latitude': 40.74886, 'longitude': -74.05077}",8,5.0,07307
+RThvexVhZQ8KA6JAr0UkCQ,Casa Adela,66 Ave C,"{'latitude': 40.72264, 'longitude': -73.97973}",466,4.0,10009
+hw8ziubXsFocun6KR04VVg,Malecon Restaurant,4141 Broadway,"{'latitude': 40.84651, 'longitude': -73.93882}",711,4.0,10033
+G65jVYSAYE-74TCcnU2n8A,El Nuevo Portal,217 Smith St,"{'latitude': 40.6844032, 'longitude': -73.9918238}",135,4.0,11201
+hgsodKhYFrzhZX5-DLc8QA,Son Cubano,40-4 Riverwalk Pl,"{'latitude': 40.7814025762396, 'longitude': -74.005708694458}",1040,3.0,07093
+1HPdyg0OLRkjHeixVmbu0Q,Cocina Del Sur,40 W 38th St,"{'latitude': 40.7515296936035, 'longitude': -73.9846572875977}",122,4.0,10018
+BmVH2X6mw8-zyq567Vcx7A,Chango Kitchen,301 Willow Ave,"{'latitude': 40.74069, 'longitude': -74.03351}",49,4.5,07030
+YigPOZxASGQX1IniEyCp8g,La Dinastia,145 W 72nd St,"{'latitude': 40.77833, 'longitude': -73.98022}",158,3.5,10023
+Pn_KLz8cue1P0AWQgFw1Zg,Gena's Grill,210 1st Ave,"{'latitude': 40.730327, 'longitude': -73.982955}",192,4.0,10009
+iNA1ljXvsX8R11NuY6GSMw,Rumba's Cafe,513 Central Ave,"{'latitude': 40.75218, 'longitude': -74.04531}",303,4.5,07307
+OwV-MtDBC2H08rVcBqP2mA,Pio Pio 8,604 10th Ave,"{'latitude': 40.760506289326, 'longitude': -73.994564488901}",2345,4.0,10036
+ZIHgJKinZaspHzrqGVZyfQ,Hard Grove Restaurant,284 First St,"{'latitude': 40.72224, 'longitude': -74.046718}",113,3.5,07302
+17tSQ4G1R2U63ahAcl3j9w,Sophie's Cuban Cuisine,947 8th Ave,"{'latitude': 40.76602, 'longitude': -73.98362}",78,3.5,10019
+BEnhDZrulF_-2Fl-nleWag,La Cabana,39-17 103rd St,"{'latitude': 40.7503, 'longitude': -73.86262}",166,4.5,11368
+BgueHXOeFcOHGT8jwBkEYw,The Freakin Rican Restaurant,4306 34th Av,"{'latitude': 40.7553327813777, 'longitude': -73.9182442054152}",222,4.5,11101
+wsStPchQUOylE1qm8r2vdg,Casual Habana Cafe,200 Main St,"{'latitude': 40.9456706235139, 'longitude': -74.0199907219159}",461,4.5,07646
+SRLrnScmDyJpS28wvWeJNQ,El Cocotero,228 W 18th St,"{'latitude': 40.74149, 'longitude': -73.99937}",533,4.0,10011
+DHUeIHJjW3iQsZ4rTd54fg,The Empanada Spot Williamsburg,346 Graham Ave,"{'latitude': 40.7147216251, 'longitude': -73.9442456103}",10,4.0,11211
+PGpCaNkB1meojnbgRmb2gQ,Buena Vista Restaurant & Bar,536 9th Ave,"{'latitude': 40.75686, 'longitude': -73.99356}",195,4.5,10018
+4-kYGYagcUzQkZuih8v-SA,El Artesano Restaurant,4101 Bergenline Ave,"{'latitude': 40.777122, 'longitude': -74.025535}",202,4.5,07087
+McJlk6ywvzcolSd0YElROQ,Harlem's Floridita,2276 12th Ave,"{'latitude': 40.8180046081543, 'longitude': -73.9609680175781}",218,3.5,10027
+BZcG-xN3DCxlfhckBZYeuw,Pio Pio 7,210 E 34th St,"{'latitude': 40.74534, 'longitude': -73.97761}",824,4.0,10016
+h0qowxmqgwjKsh-fdkxvHw,Latin Social,75 Maiden Ln,"{'latitude': 40.70769, 'longitude': -74.00767}",51,3.5,10038
+lQKnVAB9E4mhVlJc6sxwVQ,Havana's Cuban Cafe,824 River Rd,"{'latitude': 40.823548, 'longitude': -73.975923}",101,3.5,07020
+ksksxd8J2SIs97ccPFV75A,Brown Sugar Restaurant,5060 Broadway,"{'latitude': 40.869926, 'longitude': -73.915466}",233,3.5,10034
+5BQc3GZZwxY-2rnD6KS5ZA,Las Cubanitas Bake Shop,3704 Bergenline Ave,"{'latitude': 40.774820074439, 'longitude': -74.0270704776049}",32,4.5,07087
+rdBXvbb8GVRKP13-yKfYcg,Sabor Cubano,5114 Hudson Ave,"{'latitude': 40.782135, 'longitude': -74.01625}",4,4.5,07093
+AEkpyAGcVe5NgH2Nb7fCNQ,Nuevo Jardin De China Restaurant,3205 Broadway,"{'latitude': 40.7615513755699, 'longitude': -73.9243148820204}",213,3.5,11106
+1slRbWWMRkQahpuVOOfSWw,Havana Central,630 Old Country Rd,"{'latitude': 40.739086428695, 'longitude': -73.6147339829}",1612,4.0,11530
+XSnTuDnpKNETNolAHSNbhw,Rumba Cubana,2 South Pkwy,"{'latitude': 40.835564, 'longitude': -74.125027}",328,4.0,07014
+Rzy-FeiJGYS0pA6HnjYv3A,Empanada Loca,606 5th Ave,"{'latitude': 40.663927, 'longitude': -73.990969}",243,4.0,11215
+W7MJiJZ9-R-txtvVbLQnCw,La Churreria,3300 Bergenline Ave,"{'latitude': 40.7728473097086, 'longitude': -74.0286241471767}",48,4.0,07087
+xBTqo83cgF4TvCjKFjlwqQ,La Dinastia II,4059 Broadway,"{'latitude': 40.8431911, 'longitude': -73.9393521}",65,3.5,10032
+MNNpsRXe7Wt5m3Jla9Wk0w,The Alcove,41-11 49th St,"{'latitude': 40.7459065, 'longitude': -73.915103}",889,5.0,11104
+zMHbkyLR1eKgMhP730GhuA,El Cofre,454 Myrtle Ave,"{'latitude': 40.6930809020996, 'longitude': -73.9673004150391}",57,3.0,11205
+NwyhMWu6zsN4tBZQ2Fz-9A,La Havana 59,110 Moonachie Ave,"{'latitude': 40.8383708013101, 'longitude': -74.063100494674}",289,3.0,07074
+q6FcRtW3ZoQ-hynSCSa8Ig,Arepera Guacuco Bushwick,44 Irving Ave,"{'latitude': 40.704667, 'longitude': -73.924583}",536,4.0,11237
+mcviVVgOj4jSzmyhQeEY5Q,Isla Bonita,6023 Park Ave,"{'latitude': 40.7863402316117, 'longitude': -74.0088099986315}",85,4.0,07093
+wTCR-EUTLX4UoPUPdxWVJg,Blend,4704 Vernon Blvd,"{'latitude': 40.7454187160279, 'longitude': -73.9533804030555}",861,4.0,11101
+34TJL5wmOMi48Lc2AeNoKQ,La Bella Havana,35 Main St,"{'latitude': 40.9346699, 'longitude': -73.89991}",240,3.5,10701
+5Lrp0TmGtrBgaokuhXjnng,El Viejo Yayo,36 5th Ave,"{'latitude': 40.68198, 'longitude': -73.97686}",18,3.0,11217
+uXX8zSt6gX1bXv7WZTQceQ,Mojitos Restaurant Bar,81-01 Northern Blvd,"{'latitude': 40.7557368, 'longitude': -73.8862253}",38,4.0,11372
+154ILTDY2x4liySxKmO4cw,Zoralie Restaurant,449 W 51st St,"{'latitude': 40.7649401427866, 'longitude': -73.9902253076434}",255,4.0,10019
+VRu9zrlgoKcTitLzOg1sZg,Jennifer's Restaurant,15341 Hillside Ave,"{'latitude': 40.7077378947068, 'longitude': -73.8029659253311}",77,4.0,11432
+QZgPeT9JGGvNgSr9i4m29Q,KUBA RESTAURANT,2139 Hudson Ter,"{'latitude': 40.85492, 'longitude': -73.96347}",62,4.0,07024
+jKaR8TTkLBAFmMIsKU786g,Pio Pio 3,1746 First Ave,"{'latitude': 40.77959, 'longitude': -73.947}",765,4.0,10128
+1Cqn-ISALp1zTcb8Y4W14g,Ruben's Empanadas,77 Pearl St,"{'latitude': 40.704044, 'longitude': -74.01049}",89,3.0,10004
+J6EsXebZbacSOoIjpQRocQ,Baby Brasa,173 7th Ave S,"{'latitude': 40.735981, 'longitude': -74.0012344}",598,3.5,10014
+Qj5Wvq6jufSFgJd4dDb_Sg,Cafe Nunez,240 W 35th St,"{'latitude': 40.752133, 'longitude': -73.991849}",474,3.0,10001
+qf_AE2XEHzFsdLzZzRPHww,Areppas,954 3rd Ave,"{'latitude': 40.76052, 'longitude': -73.96756}",179,3.5,10022
+cFJ8bl5OfTDWSCn3yvi-KQ,Corazon de Cuba,26 E Park Ave,"{'latitude': 40.58813, 'longitude': -73.66298}",275,3.5,11561
+B73kcWdUixrovBU2JXjoZA,El Gran Canario,174 Borinquen Pl,"{'latitude': 40.7105573761851, 'longitude': -73.9538214151183}",44,4.0,11211
+cw48jFQTYxfEFcVF2yNXTw,El Chevere,2000 3rd Ave,"{'latitude': 40.79409, 'longitude': -73.94307}",25,4.0,10029
+dqJsAPlCaS1105HC1lWRyQ,Sazon Perez,417 S 4th St,"{'latitude': 40.70767, 'longitude': -73.95105}",43,4.0,11211
+3km5RrRp0sr0axrcL_lb-w,Matiz Latin Cuisine,11072 Queens Blvd,"{'latitude': 40.7189054, 'longitude': -73.8390773}",311,4.0,11375
+U1rA6SLeS_jMwqm1Vo0yaQ,El Gran Castillo De Jagua,355 Flatbush Ave,"{'latitude': 40.676993, 'longitude': -73.971981}",251,4.0,11238
+aOmZo7hEMRZAq5ITGSFf5Q,El Nuevo Tina,511 W 125th St,"{'latitude': 40.8140289773263, 'longitude': -73.9563959464431}",52,3.5,10027
+byPwK4axqJBcRC0y3ty0kQ,El Cubanito's Cafe,866 Kearny Ave,"{'latitude': 40.781472, 'longitude': -74.1385637}",87,3.5,07032
+YcfkmckqcAdyYjNHDn122w,Kalina Bar & Grill,1476 Broadway,"{'latitude': 40.687221, 'longitude': -73.918548}",32,4.0,11221
+azOGJ8gBsP4RF2zOJTSwDg,Blend Astoria,37-17 30th Ave,"{'latitude': 40.764477, 'longitude': -73.9157809}",659,3.5,11103
+wSlGpwSIecbqy1KRSO_YVg,El Castillo De Jagua,113 Rivington St,"{'latitude': 40.71977, 'longitude': -73.98787}",249,3.5,10002
+FeBeg_ju5aju89U20QPsFw,La Pola Restaurant,5400 Palisade Ave,"{'latitude': 40.784286, 'longitude': -74.016761}",79,4.0,07093
+XDHXX-xusHhQeOdN4Xn98g,Dos Amigos Restaurant,5300 Bergenline Ave,"{'latitude': 40.7845106763617, 'longitude': -74.0192052349448}",172,4.5,07093
+lw6AwN3c45HGEVQsf80S9A,Mi Candileja Restaurant,1509 Mermaid Ave,"{'latitude': 40.57703, 'longitude': -73.98308}",26,3.0,11224
+X2mfQ5SOE5eMuUzPrI_pwA,Esperanto,145 Ave C,"{'latitude': 40.725474, 'longitude': -73.978054}",698,3.5,10009
+Uut2fBy53XdIgx1rLWdQeg,Empanada Mama L.E.S,95 Allen St,"{'latitude': 40.71873, 'longitude': -73.9909}",738,4.0,10002
+5L5sMG3xP-UUIuTtxMWZwQ,Empanada City,363 Lincoln Rd,"{'latitude': 40.6617, 'longitude': -73.95046}",204,4.5,11225
+Hh9glEE_xDYT_pPUsRPXlA,Blend on the Water,45-40 Center Blvd,"{'latitude': 40.748216, 'longitude': -73.956973}",3216,4.0,11109
+ihzI-4yGesoQuAoIocao8g,Tacuba Hell's Kitchen,802 9th Ave,"{'latitude': 40.76545, 'longitude': -73.98729}",681,4.0,10019
+53zd9Zi8EKMpLd6OXNm8Mw,Emporium Brasil,15 W 46th St,"{'latitude': 40.75653, 'longitude': -73.97989}",257,4.0,10036
+AC6vUyOGt8WliqswigZlzQ,Dulce Vida Latin Bistro,1219 Lexington Ave,"{'latitude': 40.77704, 'longitude': -73.95721}",255,3.5,10028
+aJqjC4uAo6vhOpsVNCiMDA,Samba Kitchen,457 W 50th St,"{'latitude': 40.764666, 'longitude': -73.9912643}",452,4.5,10019
+sQ7ENDHnfF9dIHhYrI8oHw,Palo Santo,652 Union St,"{'latitude': 40.676716, 'longitude': -73.982009}",506,4.0,11215
+iBm8YTqNwrddsxWdqLPK-A,Caracas Arepa Bar,91 E 7th St,"{'latitude': 40.7269655, 'longitude': -73.9854223}",2553,4.0,10009
+y1a4HhMzE8OM1jjig4XlBw,Old Havana,13 Elm St,"{'latitude': 40.6504775583744, 'longitude': -74.3479800224304}",147,4.0,07090
+lj1dgpWHiymVFNWp3vzC1A,Colina Cuervo,759 Nostrand Ave,"{'latitude': 40.6713243870099, 'longitude': -73.9503035730164}",174,4.5,11216
+m7ADY4H2wnA3n_QWxheEzQ,Flor de Broadway,3395 Broadway,"{'latitude': 40.82189, 'longitude': -73.9541}",100,3.5,10031
+p3jNFdVEYM6ncZsOWpbEpw,Cha Cha Cha Cuban Cafe,292 S Michigan Ave,"{'latitude': 40.6691878474997, 'longitude': -74.2815693075482}",190,4.5,07033
+XJ8mq5IE2LQ0AYq574KAIw,Rebecca's,236 Old River Rd,"{'latitude': 40.8090199, 'longitude': -73.99101}",298,4.0,07020
+ROcLEpiaRRvKWrEn6hsulA,Aura Cocina,315 Meserole St,"{'latitude': 40.70896, 'longitude': -73.93514}",20,4.0,11206
+477YZj_L0_cLKpdCMw4o5Q,Las Brisas Cafe,4900 Hudson Ave,"{'latitude': 40.78075, 'longitude': -74.01752}",33,4.0,07087
+PjISf4rkN5UO-lHLmrdZjQ,La Isla,1439 Myrtle Ave,"{'latitude': 40.699031, 'longitude': -73.918251}",105,4.0,11237
+g9GIYh9NNpwL_O3m-aKiKg,KC Gourmet Empanadas,38 Ave B,"{'latitude': 40.72281, 'longitude': -73.98299}",64,4.5,10009
+AIKjw2QLvVNdha3TciJYzg,Boqueria Soho,171 Spring St,"{'latitude': 40.724912, 'longitude': -74.0021299}",1015,4.0,10012
+W5gIdWrPERIKd-LxbR6H8w,La Ilusion Restaurant,540 54th St,"{'latitude': 40.7856483, 'longitude': -74.0206146}",11,4.5,07093
+CDHPw3Jb7iFsNOPIDWNhLg,El Viejo Yayo,317 9th St,"{'latitude': 40.669206, 'longitude': -73.985725}",171,3.5,11215
+vXtaphLKwD_MxcjqvoXKcw,Sweets & Cortaditos,138 Washington Ave,"{'latitude': 40.785747709313, 'longitude': -74.1534257660223}",191,4.5,07109
+BSzCTN8m5e5MIPSB6E-mOA,Jelisa's Cafe,1756 Victory Blvd,"{'latitude': 40.612942, 'longitude': -74.121753}",15,4.5,10314
+m6p_huTMlmMvUNkxDL1YCQ,Havana Cafe,1247 Castle Hill Ave,"{'latitude': 40.8331000193312, 'longitude': -73.8516100868583}",207,4.0,10462
+gVRmNlTp2n4qXgYDHx0NbQ,Cachapas y Mas,678 Seneca Ave,"{'latitude': 40.7029974, 'longitude': -73.9083213}",140,4.5,11385
+tTOVOkgXehSp4fhzGFbpsA,Cafe Cello,48 W 46th St,"{'latitude': 40.75671, 'longitude': -73.98122}",45,4.0,10036
+U2eO8yFSc9YTf_SPnog8cw,La Cocina,61 New St,"{'latitude': 40.7407808, 'longitude': -74.172243}",142,4.5,07102
+kbjKDp2ZwZDyx8i6tppeug,Cuban Eddie's,110 W Shore Ave,"{'latitude': 40.9434343, 'longitude': -73.9954035}",134,4.0,07628
+rksFeEbHSX4AON99nLVbMA,Cibao Restaurant,72 Clinton St,"{'latitude': 40.71916, 'longitude': -73.98484}",104,3.5,10002
+fb4rR42U1JCK2FX5sqsTdw,La Gran Via Restaurant,3905 Bergenline Ave,"{'latitude': 40.77604, 'longitude': -74.02656}",33,4.0,07087
+evQ9dNp7Fa3OFPwWXnojrQ,Lali Restaurant,630 10th Ave,"{'latitude': 40.76128, 'longitude': -73.993919}",160,4.5,10036
+x7Y30Y_LUMuDRBejmNRrCQ,Patacon Pisao,85-22 Grand Ave,"{'latitude': 40.73515, 'longitude': -73.88126}",412,4.0,11373
+FSLdHdT8LLiMjQ02yOrWwA,El Floridita Restaurant,3856 10th Ave,"{'latitude': 40.86395, 'longitude': -73.91953}",37,3.0,10034
+jFEGRmuZe5fwCugyZnBmyg,Exotic Empanadas,635 2nd Ave,"{'latitude': 40.74528, 'longitude': -73.97574}",17,4.5,10016
+ibAka1rRs3Rj8LMEAj-SnQ,Cuban Eddie's,216 Rivervale Rd,"{'latitude': 40.9954393575872, 'longitude': -74.0066490104517}",62,4.0,07675
+trOfIBnEr_CxZuLRyGj9FQ,Miti Miti,138 5th Ave,"{'latitude': 40.6786672454389, 'longitude': -73.9791200818081}",1071,4.0,11217
+boRM4i0UQswxQIp6CA9y_A,La Esquina - SoHo,114 Kenmare St,"{'latitude': 40.721372, 'longitude': -73.997529}",2031,3.5,10012
+sgmfSQUBJfhBzhSUZDOBVg,Trova Cuban Cafe,7723 Bergenline Ave,"{'latitude': 40.80089, 'longitude': -74.00764}",90,4.0,07047
+_ur5IcT5Vvy2VaWV817GTQ,Primavera Restaurant,623 Church Ave,"{'latitude': 40.64558, 'longitude': -73.973457}",26,3.0,11218
+XpgquUrYWa-URbgi-3pykg,Patacon Pisao,139 Essex St,"{'latitude': 40.720379, 'longitude': -73.987588}",374,4.0,10002
+hcF1k2mPULZl-l7EgutN8g,Las Palmas Restaurant,6153 Bergenline Ave,"{'latitude': 40.7909018538746, 'longitude': -74.0149954022577}",376,3.5,07093
+ef5H_0iuBy3T4NIpUOpLDw,Conga Cafe,1218 Kennedy Blvd,"{'latitude': 40.7618223087012, 'longitude': -74.0426364895968}",194,4.0,07087
+KVJlEzj1ZdK5CLSn50GuSA,Pio Pio Restaurant,449 Central Ave,"{'latitude': 40.7500509473516, 'longitude': -74.0465929359198}",64,3.5,07307
+5PYk3BguxTepOsgHf67JsA,Gilberto's Cafeteria,7616 Bergenline Ave,"{'latitude': 40.7998082, 'longitude': -74.0079002}",33,4.0,07047
+DGkpJKbCB-YS3m6wqynWXA,Guapo Mexican Cuban Cuisine,10 Warburton Ave,"{'latitude': 40.9347, 'longitude': -73.8991099}",182,4.0,10701
+lUMCXD0iZ6hNot2dSEc_1w,El Castillo De Madison,207 Madison St,"{'latitude': 40.71295, 'longitude': -73.98954}",37,3.5,10002
+TTGqDbPlAltW77Jr6JDeQQ,Costas - Arepa Bar,30 W 35th St,"{'latitude': 40.749711, 'longitude': -73.98571}",145,4.5,10001
+XUnK_1giqqoG3O0trpQJew,Listo El Chimi,55-30 Myrtle Ave,"{'latitude': 40.6998583557259, 'longitude': -73.9073220084344}",71,3.5,11385
+j0DIt_sKfcwE3eXsmGqG6g,1958 Cuban Cuisine,301 South Ave W,"{'latitude': 40.64863, 'longitude': -74.34625}",259,4.5,07090
+Jabgwad1_GoGRvm7Z3TkUA,Cuban Pete's,428 Bloomfield Ave,"{'latitude': 40.81309, 'longitude': -74.21698}",3439,3.5,07042
+P8PGGzxZeMm6Na5gYqvudw,Travesias,3834 E Tremont Ave,"{'latitude': 40.824337, 'longitude': -73.8203876}",523,4.0,10465
+7q7Rvlg4HevDdeb0AYeVqA,Latin Public,6911 Tonnele Ave,"{'latitude': 40.80055, 'longitude': -74.02212}",2,5.0,07047
+xQDmTK7EucQ5IinK2Qq10A,Coco Loco,32 Newark St,"{'latitude': 40.73672, 'longitude': -74.02917}",3,2.5,07030
+HRl7_BMSznkfYSlXWQ89Ig,Lamano West Village,39 Christopher St,"{'latitude': 40.73388, 'longitude': -74.00158}",48,4.0,10014
+708ElUjoqZisK-wggzjpcw,El Unico Restaurant,4211 Park Ave,"{'latitude': 40.7754219307644, 'longitude': -74.0200909558604}",95,3.5,07087
+hIx0-ujfNPDlcX9Yxph9yQ,Rollin' Cubans Food Truck,,"{'latitude': 40.7043952941895, 'longitude': -73.6924057006836}",1,5.0,11003
+S-xUsS4RKzBrOnAjy6lnyA,Acosta Restaurant,934 Amsterdam Ave,"{'latitude': 40.80041, 'longitude': -73.96613}",43,3.5,10025
+Ui-E0CK2BBVVoOzulzzhcQ,Carmen's Kitchen,302 W 38th St,"{'latitude': 40.7547995, 'longitude': -73.9921988}",38,4.5,10011
+KVOSON0zEwnmCxzp9azwFA,Sangria 46,338 W 46th St,"{'latitude': 40.7602, 'longitude': -73.9895}",432,3.5,10036
+GepWuSFEGuFzE8U1fYFOXQ,La Vecina,30-66 Steinway St,"{'latitude': 40.76232, 'longitude': -73.9165699}",169,4.5,11103
+5S8ZK9XLdl4l645twbNYZQ,Boqueria,1460 2nd Ave,"{'latitude': 40.771522, 'longitude': -73.956073}",742,4.0,10075
+3vBVnzsJLRh8WtW3awKxeQ,Bodega 88,573 Columbus Ave,"{'latitude': 40.7875358759796, 'longitude': -73.9711353555322}",173,4.5,10024
+Ki2-LougDEv34G5EY1sz4g,Tropical Sensation,953 Amsterdam Ave,"{'latitude': 40.800816, 'longitude': -73.965018}",134,3.5,10025
+5SLdb_Aok4KS2Gyna2a3Kw,Las Americas Cafe,4509 Bergenline Ave,"{'latitude': 40.77975, 'longitude': -74.02355}",4,3.5,07087
+NUmMCPWyrQAfTJEW-KGHkg,Castillo de Jagua Deli-Restaurant,6811 4th Ave,"{'latitude': 40.634868, 'longitude': -74.023094}",64,3.5,11220
+6Vghbop9HlFOdmInjww6WA,Sweets & Cortaditos,7700 Bergenline Ave,"{'latitude': 40.80027, 'longitude': -74.00736}",77,4.0,07047
+PnuHBmeuUH-BhnqNS39QJw,Mi Quisqueya Restaurant,365 Broadway,"{'latitude': 40.6594370737937, 'longitude': -74.1221578076324}",21,4.0,07002
+54hPnm8Z4rJST1CZWaOznw,Pampano,209 E 49th St,"{'latitude': 40.75503, 'longitude': -73.97054}",557,4.0,10017
+cSxyJG9bWRXZxafxrtQ2BA,La Isla Cafe,212 Delancey St,"{'latitude': 40.71727, 'longitude': -73.98321}",8,4.0,10002
+tqEjR4tK4HSc_R5FfYdGiA,Havana Mia - Scotch plains,2510 US 22 E,"{'latitude': 40.664137, 'longitude': -74.387676}",55,2.5,07076
+El-vt1mEH5QLECshLb71Kw,Mi Islita,520 39th St,"{'latitude': 40.77637, 'longitude': -74.02712}",24,5.0,07087
+T_fs1uQm0DjSM0NavN43ug,LaGuardia Cafe,97-02 23rd Ave,"{'latitude': 40.7684051, 'longitude': -73.8732025}",213,4.5,11369
+qBUaXlExzI85xpykKw8e6A,Panca,92 7th Ave S,"{'latitude': 40.732803940773, 'longitude': -74.0033517032862}",387,3.5,10014
+ZZkWHvDoDK_vXLTf7FmdYA,Parceros Bakery,63-54 Woodhaven Blvd,"{'latitude': 40.7230342943081, 'longitude': -73.8683484122157}",74,4.5,11374
+TkBJW-GIJF_6wW1OG3i-8A,Miss Lily's,132 W Houston St,"{'latitude': 40.7279368007065, 'longitude': -74.0015595607808}",1112,3.5,10012
+Y8Fj6nhoWrMuPR1rlzfZXw,Mis Raices Restaurant,1213 Teaneck Rd,"{'latitude': 40.89412, 'longitude': -74.00138}",229,4.5,07666
+ylo-luxv49zw9tyOViJheQ,Mango's Cafe Restaurant,6012 Park Ave,"{'latitude': 40.78574, 'longitude': -74.00871}",3,5.0,07093
+t-ckNKwE6SbYxBmVFQe6_w,Casual Habana Cafe,125 Main St,"{'latitude': 40.88218, 'longitude': -74.04395}",512,4.0,07601
+Zm_G2TmcpzvbHdpjpdsZag,Toribio Restaurant,3169 Fulton St,"{'latitude': 40.6820753313912, 'longitude': -73.8781180232763}",19,4.0,11208
+GmMTCKqJeWhl-OruCvAfCg,Alvarez Cafe,511 Elizabeth Ave,"{'latitude': 40.65461, 'longitude': -74.19814}",86,3.5,07206
+FsyEN6IBkkE9wZiOCGcO8A,Lechonera El Barrio,172 E 103rd St,"{'latitude': 40.78975, 'longitude': -73.94659}",76,3.5,10029
+gvMYV5E3HyzhN_MYFIMGzg,El Born,651 Manhattan Ave,"{'latitude': 40.7243479163883, 'longitude': -73.9512226101037}",308,4.5,11222
+lfGbRFg2oCgVCdcaq0JApA,Extra Super Restaurant,5525 Palisade Ave,"{'latitude': 40.7853447335862, 'longitude': -74.0163408472214}",11,3.5,07093
+A0kA5AIRi_A0dlF3pv0FcA,La Barca Restaurant,3892 Broadway,"{'latitude': 40.8375, 'longitude': -73.94203}",69,4.0,10032
+v9v72t3Q37HaaFPNu7_vxA,El Gustazo,4219 College Point Blvd,"{'latitude': 40.7540265349067, 'longitude': -73.8326920290833}",66,4.0,11355
+3YjNGS-yUp82uqMsJ4UZAQ,Latineria,89 East 42nd St,"{'latitude': 40.75287, 'longitude': -73.97768}",11,4.0,10017
+5FaZEG91NXfY3z_0Trf-bA,Empanada Mama,200 W 40th St,"{'latitude': 40.7548520085934, 'longitude': -73.9883571490645}",5,4.0,10018
+fMGAT-lT4XEYKKck5R915w,Pio Pio 2,84-02 Northern Blvd,"{'latitude': 40.7555, 'longitude': -73.88315}",1185,3.5,11372
+E3CvO6bRu8Kp0RzDgcvkig,El Malecon Restaurant II,764 Amsterdam Ave,"{'latitude': 40.795027, 'longitude': -73.969917}",280,3.5,10025
+7oDfdSrTMFF9AdGuCU-XZw,Mambi Restaurant,4181 Broadway,"{'latitude': 40.8477, 'longitude': -73.9382}",86,3.0,10033
+AuNd4-yjTF-2MmbTkZY6Dw,Rico Pollo III,4523 5th Ave,"{'latitude': 40.647526921079, 'longitude': -74.0080366666667}",11,3.5,11220
+sGwQYKPaMJ-tD2E4fQ0EJQ,Jardin De China,3737 Jct Blvd,"{'latitude': 40.750672, 'longitude': -73.869982}",231,4.0,11368
+gW56yb3PxD4uCSlK6-Jgog,BODEGUITA DELI,81 James St,"{'latitude': 40.8055019, 'longitude': -74.1893206}",10,4.0,07003
+qZXlH7mYJt_udou9-BhaBA,The Inkan,4502 23rd St,"{'latitude': 40.746833, 'longitude': -73.945639}",191,3.5,11101
+zSYBOWCzhz9aHJX0Nt6fhg,La Isla Cuchifrito,276 E 149th St,"{'latitude': 40.81711, 'longitude': -73.92271}",31,4.0,10451
+zDl3TJX2t4XgWUOSzgjJ5Q,Havana Central,55 Parsonage Rd,"{'latitude': 40.5485832, 'longitude': -74.3339861}",780,3.5,08837
+r0FV_JwCxtegtB5ohcds7Q,El Conde Restaurant,4139 Broadway,"{'latitude': 40.8460671, 'longitude': -73.9386488}",116,4.0,10033
+8Pl_W9o-scGOZ0zrpMY4BA,Mi Bandera,518 32nd St,"{'latitude': 40.77308, 'longitude': -74.02962}",144,3.5,07087
+XlDBAanEih5DDqXi3G0lMw,Rinconcito Paisa,1976 Forest Ave,"{'latitude': 40.62567, 'longitude': -74.1551}",128,3.5,10303
+qAbjQOJ8oqFAvIHVaakxWA,Cuban Eddie's,21-04 Morlot Ave,"{'latitude': 40.929805920822, 'longitude': -74.117680862546}",24,3.5,07410
+LyOa79PAOrWg9fqDtDM5rg,Tayrona Cafe and Bakery,403 E 70th St,"{'latitude': 40.76635, 'longitude': -73.95634}",1,2.0,10021
+XObe5xXdVXXJP3m0NEumqA,354 Steakhouse,354 Lawton Ave,"{'latitude': 40.82771, 'longitude': -73.98748}",145,4.0,07010
+CgT68si7LReu2px9B_poUA,Mi Tierra Bar & Restaurant,7204 3rd Ave,"{'latitude': 40.6333999568734, 'longitude': -74.0271599963307}",11,4.0,11209
+8LFh--qMwc2faWcOfsrtZg,Yayo's,36 5th Ave,"{'latitude': 40.68199, 'longitude': -73.97697}",214,3.5,11217
+krx3qFc0QFRqLL3fyscJSQ,Cachapas y mas,107 Dyckman St,"{'latitude': 40.862244, 'longitude': -73.92475}",355,4.0,10040
+z-BFH3BoaGEnH-Hs2AVVlA,Melanie's Restaurant,675 Mount Prospect Ave,"{'latitude': 40.7751007080078, 'longitude': -74.1655349731445}",24,4.0,07104
+DklpHj1YV2CMR4VEo-TlGQ,Casella Bagel Coffee Shop,66 Willoughby St,"{'latitude': 40.692009, 'longitude': -73.986076}",27,3.5,11201
+PJSrhqPpYKXYcBKYfRexDQ,El Mofongo Restaurant,684 Fulton Ave,"{'latitude': 40.7121570621845, 'longitude': -73.608403801918}",473,5.0,11550
+8aXjm3ryjtJjBWkz5vkxhw,Havana Sandwich Cafe,416 Bloomfield Ave,"{'latitude': 40.78891, 'longitude': -74.195149}",64,3.5,07003
+zSeISbNAkJwTEqvUGNT-OA,La Nueva Win Hing Restaurant,40 E 167th St,"{'latitude': 40.83543, 'longitude': -73.92115}",26,4.0,10452
+H4sUS_wSBKJndDL-D7d1Pw,Havana Express,815 Hutchinson River Pkwy,"{'latitude': 40.823891, 'longitude': -73.838412}",42,2.5,10465
+kwMkNIhhIexQk-nmloJlnw,Angel of Harlem,2272 Frederick Douglass Blvd,"{'latitude': 40.807978, 'longitude': -73.952365}",528,3.5,10027
+RL1YogACkp6zHImeL9401Q,Ventanas Restaraunt and Lounge,200 Park Ave,"{'latitude': 40.8529794718683, 'longitude': -73.9670800660406}",260,3.5,07024
+WENFZOixa_j8hC0_RcxCPA,Little Blue Cuban,8TH Ave,"{'latitude': 40.8260099, 'longitude': -73.9396}",2,3.0,10039
+-a5EfIQzUrb1pnMQpsvslw,Lolitas Mexican Cantina- North Bergen,8809 River Rd,"{'latitude': 40.80402, 'longitude': -73.99376}",471,3.5,07047
+pKoLlLE4hWYzRA-g0TNJuw,Empanada Papa,None,"{'latitude': 40.65706, 'longitude': -73.99994}",16,5.0,11232
+hO1T1fG5f5FbvOP2124rpw,Negril BK,256 5th Ave,"{'latitude': 40.67501, 'longitude': -73.98163}",613,4.0,11215
+Oy0Bc7kwTCOO2NzxbkyIPA,Cuban Cafe,225 Smith St,"{'latitude': 40.509218, 'longitude': -74.27095}",13,4.0,08861
+ApQ4j2ZBGyguH9ar2djvzQ,Angiolina's Restaurant,1322 A Jerome Ave,"{'latitude': 40.8385249, 'longitude': -73.9185645}",3,3.5,10452
+gbKPnTbdLqqpro-jTYKvBA,Brooklyn Beso Restaurant & Bar,370 Lewis Ave,"{'latitude': 40.68293, 'longitude': -73.93533}",322,3.0,11233
+iAiQP9RjAxv395tpjb8IUA,Westside Coffee Shop,323 Church St,"{'latitude': 40.7200908286163, 'longitude': -74.0036646920307}",79,4.5,10013
+RgXT9Pkui7IuWua2K9yuHA,Rossy's Bakery,242 E 3rd St,"{'latitude': 40.72184, 'longitude': -73.98159}",62,4.0,10009
+CKzqUwRmUMNJqaVu-zUB4A,Made In Puerto Rico Latin Cuisine,3363 E Tremont Ave,"{'latitude': 40.83451, 'longitude': -73.82907}",318,3.5,10461
+0qDyDGsZDGZ-34LuAJFQGA,Centro Latino II,6500 Park Ave,"{'latitude': 40.789459, 'longitude': -74.005378}",56,4.0,07093
+pXA2UgJEHNNonaGPAXuFzg,La Isla Cuchifritos,6 Graham Ave,"{'latitude': 40.70099, 'longitude': -73.94199}",79,4.0,11206
+ZuyFjvlwlvplisCnF4wO2w,Tropilyz,2462 Grand Concourse,"{'latitude': 40.86148, 'longitude': -73.89728}",2,2.0,10458
+GPsPzx5tSPZWvtq1oYhmOA,La Giraldilla - Latin Cuisine,127 Queen Anne Rd,"{'latitude': 40.8689582801021, 'longitude': -74.0221603728541}",3,4.5,07603
+qO6SR3ykrcBqauvzzhJSbQ,Corazon Latino,138-40 84th Dr,"{'latitude': 40.7091133080874, 'longitude': -73.8180327685105}",39,4.0,11435
+uL629uaGrH10UB5T5cKNeg,The Sanchez Luncheonette,38-01 Vernon Blvd,"{'latitude': 40.759069, 'longitude': -73.944023}",10,5.0,11101
+FnHSI6kppOOfoNfEDvFA8g,Burana Pizzeria & Restaurant,6310 Park Ave,"{'latitude': 40.788539, 'longitude': -74.006116}",15,4.5,07093
+g7pAeomzeIQY4mCfpOyHUQ,El Nuevo Caribeno,1675 Lexington Ave,"{'latitude': 40.79157, 'longitude': -73.94646}",91,4.0,10029
+bG68AUaOLsxqWKZ1iN-Ikg,Bridge Coffee Shop,73 Bridge St,"{'latitude': 40.7022171020508, 'longitude': -73.9844665527344}",29,4.5,11201
+ogssIgtEbupZ_PnHX_6-Vw,La Tostano,603 Elizabeth Ave,"{'latitude': 40.65626, 'longitude': -74.19982}",6,4.5,07206
+NzFEzBtaPuB_u28Qs7GxHQ,Elsa La Reina Del Chicharron,4840 Broadway,"{'latitude': 40.8662599, 'longitude': -73.92474}",99,4.0,10034
+iQq4-DZDD-pwhOMXRK3j6A,Carneval,507 Grand St,"{'latitude': 40.711198, 'longitude': -73.950864}",51,4.5,11211
+0Aw9Af0d9a7HxcbkJaW9eA,Mamajuana Cafe,247 Dyckman St,"{'latitude': 40.866501, 'longitude': -73.928037}",640,3.0,10034
+I16AKU3myQ68O40fWCeIGQ,Made in Puerto Rico Bar & Lounge,26 Bruckner Blvd,"{'latitude': 40.80701, 'longitude': -73.92829}",53,2.0,10454
+oURfEfjMAhS7KXGfTpyecQ,Sandro's Latin Food,2703 23rd Ave,"{'latitude': 40.776038, 'longitude': -73.9149907}",144,4.0,11105
+vPPJxadFYQRn3u8URnyiBg,Barchaa Peruvian Fusion Cuisine,567 Wilson Ave,"{'latitude': 40.691251638302, 'longitude': -73.9088140866205}",88,4.0,11207
+JCNvX6yFS0u1XAXPdow3lQ,Rincon Español Restaurant,325 45th St,"{'latitude': 40.7784167262421, 'longitude': -74.0216035108312}",3,4.5,07087
+By2Zl1imtu0SpA4IBziN1g,La Masa,1000 Morris Park Ave,"{'latitude': 40.8480737080242, 'longitude': -73.8560921276473}",429,4.0,10462
+sDgN-TGeEz-wd8kWEUWwTA,VSPOT,156 5th Ave,"{'latitude': 40.67808, 'longitude': -73.9795}",686,3.5,11217
+9gcbrimniLbpKsThHp2Y9A,Mima’s Cuban Cantina,850 Paterson Ave,"{'latitude': 40.84987, 'longitude': -74.11457}",39,4.0,07073
+0RRl-QoQ9XcBJVwSIoX9wg,La Chiqui Restaurant,760 Grand Concourse,"{'latitude': 40.8233528648988, 'longitude': -73.9238891662151}",7,4.5,10451
+qrfSvfsAtbfEiXeJoK3EFQ,Andris Cuban Sandwich King,484 Stuyvesant Ave,"{'latitude': 40.8091485, 'longitude': -74.1297321}",102,4.5,07071
+Je-7XuylrwfQRd0xFy0usw,Galeria Cafe,121 Franklin St,"{'latitude': 40.7427045485415, 'longitude': -74.0500221401453}",2,5.0,07307
+uqnJ8VHEudhb0t84_R9fvw,Rico Pollo,5537 Myrtle Ave,"{'latitude': 40.7000022169917, 'longitude': -73.9070183886961}",122,4.0,11385
+fVslDZ8dGsVmcRhS0R0kFg,Huertas,107 1st Ave,"{'latitude': 40.726856, 'longitude': -73.986251}",313,4.0,10003
+peddUM3rwCuHybjm1K_1og,Cubano Xpress,,"{'latitude': 40.79085, 'longitude': -74.15473}",7,3.5,07109
+nhJ7guqcGUjqquZ8Py0jhg,Punta Cana Dominican Grill,162 Post Ave,"{'latitude': 40.75472, 'longitude': -73.5875}",317,4.5,11590
+ddFY9PpygYagv7-jVduB2Q,Counter & Bodega,266 W 23rd St,"{'latitude': 40.7449689, 'longitude': -73.9982137300407}",100,4.5,10011
+k2cc1gjX7l0vjuzNephfvA,El Nuevo Amanecer Restaurant & Lounge,3666 Broadway,"{'latitude': 40.83041, 'longitude': -73.94722}",17,3.5,10031
+4tfm_HC2i6kTYTrGm1a4Mg,Sofrito New York,679 Riverside Dr,"{'latitude': 40.8272924385247, 'longitude': -73.9553674986725}",602,2.5,10031
+yrrAP53OfpOTcWmkzJhBBw,La Cabana Jarabacoa,6513 Fresh Pond Rd,"{'latitude': 40.7093547772897, 'longitude': -73.8985856223045}",17,3.5,11385
+oU57aC2zA8ufvo-PDj5TJw,El Pollo Supremo,254 Central Ave,"{'latitude': 40.7435177, 'longitude': -74.0507311}",46,3.5,07307
+0qLiJ70Iciz3K9JVmwY2tg,Las' Lap,74 Orchard St,"{'latitude': 40.7176, 'longitude': -73.99024}",96,4.0,10002
+QdOiR8w1EZuSWMw2D_GwmA,El Sazon De Mi Abuela,1561 Westchester Ave,"{'latitude': 40.82892, 'longitude': -73.87721}",1,5.0,10472
+VcLDeSz1BG7NXr5iMY0aAA,New Thompson's Diner,32-44 Queens Blvd,"{'latitude': 40.7443, 'longitude': -73.93195}",23,2.5,11101
+G9-wNp99_KReMKCbX6YDiw,El Vesubio Restaurant,442 62nd St,"{'latitude': 40.7911381, 'longitude': -74.0138804}",18,3.5,07093
+76B7-T4f1EdsQsoI0NM9Wg,Beso,11 Schuyler St,"{'latitude': 40.6433825472408, 'longitude': -74.0769100798997}",531,4.0,10301
+-ic13XJ9ekpEfshQFPKL4A,Grandchamps Kitchen & Market,197 Patchen Ave,"{'latitude': 40.6847096, 'longitude': -73.9262115}",235,4.0,11233
+6tyauFgQh7Ta8RJfm-HklA,Sapoara,2262 1st Ave,"{'latitude': 40.7962065305915, 'longitude': -73.9350713466444}",62,4.0,10035
+urgl6gvj5xpLSb_vZ-XyZw,Union City Social Eatery & Lounge,414 38th St,"{'latitude': 40.77517, 'longitude': -74.02619}",11,3.5,07087
+7SekluUz__l0ZtPOaLBUeQ,Socarrat Paella Bar - Nolita,284 Mulberry St,"{'latitude': 40.724483, 'longitude': -73.99504}",493,4.0,10012
+lAsxDyhqz_-rncQYwE9JAg,La Casa Del Mofongo,1447 St Nicholas Ave,"{'latitude': 40.850456, 'longitude': -73.933403}",431,3.0,10033
+MMeE9E4djhMkJWOCewod2w,El Fenix Bakery II,6122 Bergenline Ave,"{'latitude': 40.79078, 'longitude': -74.01451}",3,3.5,07093
+6cynYanBGbyMEHUHbJmX5g,El Pollo Real,69-51 Grand Ave,"{'latitude': 40.72705, 'longitude': -73.89395}",40,4.0,11378
+9z2lUyfzZV8b2rkkiwSM4g,ABC Cocina,38 E 19th St,"{'latitude': 40.7379699846239, 'longitude': -73.9892806964011}",900,4.0,10003
+n-rUukmlLuE1rSs5IyeRnw,Mofongo del Valle,3340 Broadway,"{'latitude': 40.8202124387026, 'longitude': -73.9548010379076}",53,3.0,10031
+jUPnFlGck-qlxnJjfHb2Qw,Mrs. Bagelsworth,1209 Anderson Ave,"{'latitude': 40.83974, 'longitude': -73.98187}",28,4.0,07024
+mv4A3Yl90ZLONO03ksqRrg,Ix Restaurant,43 Lincoln Rd,"{'latitude': 40.6609148441096, 'longitude': -73.9613892462263}",142,4.5,11225
+Z5FKUxsLDi5LznSrmH-ISg,Piquant,259 Flatbush Ave,"{'latitude': 40.6800318505238, 'longitude': -73.9741366297732}",762,3.5,11217
+emgBM_659P-QZ9igJV_A4g,Las Tejas Cafe,4816 Palisade Ave,"{'latitude': 40.7815838495554, 'longitude': -74.0193489806016}",3,4.5,07087
+YllbMI89Czj6rrN-XMdUNw,Yukka Latin Bistro,5684 Riverdale Ave,"{'latitude': 40.90648, 'longitude': -73.904}",159,3.5,10471
+ZDXAyai8PGcEi-13Hl9AOg,Cuba Mia,707 US Hwy 46,"{'latitude': 40.861099, 'longitude': -74.372522}",185,3.5,07054
+EHUNrnIgnhwTnpOm3gEESg,Tacuba,35-01 36th St,"{'latitude': 40.75585, 'longitude': -73.92447}",667,4.0,11106
+DJL46qDr6cFQtpcuSwJ5_w,Las Tres Islas,47 Market St,"{'latitude': 40.8627738952637, 'longitude': -74.1166305541992}",3,4.5,07055
+F9IVMdJzc-QOWVgmmWUJjA,Sabor Caribeno,1062 Broadway,"{'latitude': 40.69479, 'longitude': -73.93162}",8,4.0,11221
+GJ2Kls-OnAeiLM-ByNCKlA,Don Diego Cuban Restaurant and Bakery,7626 Broadway,"{'latitude': 40.79746, 'longitude': -74.00212}",6,4.0,07047
+FI8-v7UqBBvt5BNsOjTCBQ,El Pollo Supremo,8101 Tonnelle Ave,"{'latitude': 40.808352, 'longitude': -74.017785}",5,3.0,07047
+KgGWcfdNQNpCtLwskX5dNQ,El Pio Pio Cafe,5800 Hudson Ave,"{'latitude': 40.7858928, 'longitude': -74.0133467}",16,3.5,07093
+YWTkTJj8ZYSFmOgN0_9FMw,Centro Latino Restaurant,6217 Bergenline Ave,"{'latitude': 40.79187, 'longitude': -74.01441}",20,3.0,07093
+Zi1WZ2ab8EnZiW7IQdiWGQ,Mambo Tea House,98 Park Ave,"{'latitude': 40.82721, 'longitude': -74.1048854}",392,3.5,07070
+Mex_wlSHQg50DPdAPRWA4Q,Jenavies Cafe,2920 Bruckner Blvd,"{'latitude': 40.83327, 'longitude': -73.82732}",140,3.0,10465
+3EjIC5jLh0Q_dkLmpsFslQ,Rico Chimi,1492 Myrtle Dr,"{'latitude': 40.699138, 'longitude': -73.914187}",24,3.5,11237
+yjAhpQ8eNM9X8FdAPXTiTA,Super  Pollo  Restaurant,865 Woodward Ave,"{'latitude': 40.702892, 'longitude': -73.901858}",222,4.0,11385
+R4-Y6ogPoGUkvDlRLAfOgg,Acento Latin Kitchen and Bar,33-06 Ditmars Blvd,"{'latitude': 40.7752594932846, 'longitude': -73.9094452481536}",72,4.0,11105
+XLueMJZR59RTDrbFdvvaiQ,Havana Reyes,891 Mt Prospect Ave,"{'latitude': 40.7829613695558, 'longitude': -74.161769801796}",2,3.0,07104
+7bp1Bs95uIoXtsmfPG57ig,El Pollo Supremo,4209 Bergenline Ave,"{'latitude': 40.77792, 'longitude': -74.02502}",9,4.0,07087
+fLJw_HGD01RTQ_WqlJf6Ew,Ripe Kitchen & Bar,151 W Sandford Blvd,"{'latitude': 40.898214, 'longitude': -73.838821}",285,4.0,10550
+fWsl80ThqVxFQJ11b9_qhQ,Caridad Restaurant,100-02 Northern Blvd,"{'latitude': 40.75706, 'longitude': -73.86821}",37,3.5,11368
+-SvFThRv1oRm_TKJkNRGbA,El Fenix Bakery,4211 Bergenline Ave,"{'latitude': 40.77798, 'longitude': -74.02498}",10,3.5,07087
+SFli0AjqWHijncmw3-yMTA,House of Antojitos,583 E187 St,"{'latitude': 40.8559432697273, 'longitude': -73.8879597537201}",31,4.0,10458
+bUt2TiF1dX1RKcSUplAAnA,Flavor's House,449 2nd Ave,"{'latitude': 40.73957, 'longitude': -73.9799}",14,4.0,10010
+lXPQ5iNQjEPxX86D8YLV-w,AMARACHI,189 Bridge St,"{'latitude': 40.69803, 'longitude': -73.98482}",368,3.5,11201
+Kyl9SMMU8tn8og5KQC-p1w,Quetzal Restaurant,6420 17th Ave,"{'latitude': 40.6207928, 'longitude': -73.9923672}",89,2.5,11204
+fVKdyakx0QliMPOFSqHMmQ,Pio Pio - West New York,5513 Hudson Ave,"{'latitude': 40.7846199, 'longitude': -74.01493}",15,3.5,07093
+99AQxb2Cl3KLmqPm0VYZ_A,La Parada - Pit Stop,3830 E Tremont Ave,"{'latitude': 40.8243713378906, 'longitude': -73.8205642700195}",23,2.5,10465
+wZtqp60yW6TsGvznK30VeQ,Omar's Cafe,646 Mount Prospect Ave,"{'latitude': 40.77427, 'longitude': -74.16689}",44,4.0,07104
+ESObaNki6C-ivZpSHIO8yQ,Areppas,115 E 23rd St,"{'latitude': 40.740077, 'longitude': -73.985479}",50,3.5,10010
+s7zNsxCvi1V7w-4kaoczzQ,Riko Peruvian Cuisine,45-23 Greenpoint Ave,"{'latitude': 40.742309118372, 'longitude': -73.91898893482}",359,3.5,11104
+gWE6WkBoC46dIRSMygHoPg,Cachapas Brooklyn,2311 Pitkin Ave,"{'latitude': 40.67333, 'longitude': -73.88706}",114,4.5,11207
+pKduAJ6lM3IPbjZRyveZOg,El Pollo Supremo,3223 Bergenline Ave,"{'latitude': 40.77282, 'longitude': -74.02904}",10,3.5,07087
+lvngmx_SlpB58jGA0cNlfA,Cubanu,1467 Main St,"{'latitude': 40.606208, 'longitude': -74.273834}",263,3.5,07065
+XB-mf3J7gNMImfQ_2EVfxA,Rice and Beans Restaurant,234 4th Ave,"{'latitude': 40.677109, 'longitude': -73.9836326}",26,4.0,11215
+3qZbs8qwYv3Abf7uOwrlZA,El Nuevo Pollo Sabroso,1779 Westchester Ave,"{'latitude': 40.8318796, 'longitude': -73.8670647}",13,3.0,10472
+mn59mvZO0Op_Z-RvROgX6Q,Cubanelle Restaurant,522 Franklin Ave,"{'latitude': 40.8239944686159, 'longitude': -74.1545444491879}",277,3.5,07110
+24p-MWh8_jZWLZnR9X2NgQ,Sabrosura Restaurant,1200 Castle Hill Ave,"{'latitude': 40.832073, 'longitude': -73.850759}",267,3.5,10462
+lMfR0Djk4UIVMS7PB0_bqQ,La Pequeña Colombia,83-27 Roosevelt Ave,"{'latitude': 40.7479462, 'longitude': -73.8823776}",215,3.5,11372
+n6nxNv-jZNEPJq4cEiul2A,Exquisito,21-12 36th Ave,"{'latitude': 40.759429, 'longitude': -73.936482}",41,3.0,11106
+n1KXDYzDusKdQf-qprWfpw,Melissa's Taqueria & Tequila Bar,19 N Park Ave,"{'latitude': 40.6568659846248, 'longitude': -73.6450910568237}",75,3.5,11570
+pm14zll-e5VFWSBAc-HNQA,Antojitos Delmangu,80 W Kingsbridge Rd,"{'latitude': 40.867904, 'longitude': -73.900494}",1,3.0,10468
+PZM0lwv0i0ZRpyzioRU8SA,Lime Jungle Empanadas,197 7th Ave,"{'latitude': 40.743201852814, 'longitude': -73.9966291921214}",107,3.5,10012
+873hVulzMKFxDRcgod51OQ,Cafe Kabila,250 W 39th St,"{'latitude': 40.754717, 'longitude': -73.9903068}",78,4.0,10018
+N32lcUnshizWWKrGklsf9g,Cafe Colonial Restaurant,2072 White Plains Rd,"{'latitude': 40.85265, 'longitude': -73.86757}",133,2.5,10462
+4BiFBZDL1ELpoSTN5bCIVg,Mama's Coffee Shop & Restaurant,13-01 40th Ave,"{'latitude': 40.7557616, 'longitude': -73.9419477}",22,4.0,11101
+ajPcdJZzHeKK619gTrMo0g,Sangarita's,40-02 Bell Blvd,"{'latitude': 40.7641371911097, 'longitude': -73.7715749815106}",239,4.0,11361
+53p7stvLRveoFIv_vXD-zA,Los Sazones Latino Corp,1047 Woodycrest Ave,"{'latitude': 40.8337933115765, 'longitude': -73.9272939786315}",1,5.0,10452
+ntNaKGqw7PHuDooPPdDoEA,Bossa Cafe,38-09 69th St,"{'latitude': 40.7467537, 'longitude': -73.89617}",7,4.5,11377
+Z16VudvRJkHtqzqADzCbfw,Rincón Melania,35-19 Queens Blvd,"{'latitude': 40.744785, 'longitude': -73.929137}",79,4.5,11101
+U-_boK8ZhJXfG0ZtHddA_A,Cafe Cubano,305 Blvd,"{'latitude': 40.86497, 'longitude': -74.07547}",1,3.0,07604
+OspKlgkxFgdctHY6Nl4nPw,Tu Cachapa,4195 Broadway St,"{'latitude': 40.8481895, 'longitude': -73.9380171}",56,3.5,10033
+vZEHv7LzFZXOr7_nbxNKeQ,Las Cañas Cafe,4546 Bergenline Ave,"{'latitude': 40.780304, 'longitude': -74.0225789}",4,4.0,07087
+Snwgt0YnzCgarBQiHQwPNg,Havana Restaurant and Pizzeria,3 1st Ave,"{'latitude': 40.7700791084996, 'longitude': -74.1887490078807}",15,1.5,07003
+lId79TjDzBQJGwuoE85cMQ,El Economico Restaurant,5589 Broadway,"{'latitude': 40.879419, 'longitude': -73.904817}",61,3.5,10463
+71nPfK1a1uY69mUen-981A,Latin American Restaurant,29 W 26th St,"{'latitude': 40.7436804912868, 'longitude': -73.9904952049255}",66,3.5,10010
+5Ia7a72M6b8ht88mD_E3-A,Viva Toro,987 Grand St.,"{'latitude': 40.713503, 'longitude': -73.935366}",501,3.0,11211
+qQfJqAs2wO2JRCgV_5xbvQ,El Manto,100-15 Astoria Blvd,"{'latitude': 40.76212, 'longitude': -73.86872}",2,2.5,11369
+N7Lt-uH4KPAlSeTFSgED2g,Tauro Restaurant,284 Hudson St,"{'latitude': 40.72533, 'longitude': -74.007392}",37,3.5,10013
+k36g20Xr_xOTz_Ap2oG3Zg,El Pollo Restaurant & Bar,560 Richmond Rd,"{'latitude': 40.6129693080948, 'longitude': -74.0872420947426}",61,3.0,10304
+Yr49BAESF-dja2yEC7JC_g,Tio Pio West,46 W 36th St,"{'latitude': 40.7501352909615, 'longitude': -73.98463211763}",63,3.5,10018
+I8QButIIgEbhU2VRKOOVNw,Tiki Mojito,525 Bayway Ave,"{'latitude': 40.64493, 'longitude': -74.21224}",129,4.0,07202
+13WOVbyQV7sruwVaCuUETw,Los Latinos Deli & Grill,24 E Park Ave,"{'latitude': 40.58813, 'longitude': -73.66306}",8,5.0,11561
+zioFRhi7Q8ADmXbd2Q7SHQ,El Palmar Restaurant,523 Elizabeth Ave,"{'latitude': 40.6548998, 'longitude': -74.1985158}",75,3.0,07206
+cuIlRIDDTr5MwgFPfl2q7Q,La Terrazza Latina,273 High St,"{'latitude': 40.507224, 'longitude': -74.2657685}",133,3.0,08861
+hDirItYNhrxh6kSQM8lFLw,Rumba Cafe,261 Hillside Ave,"{'latitude': 40.8657287, 'longitude': -73.9859761}",23,4.0,07605
+oBUp4UIF1eiDSenQ62EwUA,Cubanelle Restaurant Lounge,1 Rte 46 W,"{'latitude': 40.89244, 'longitude': -74.22154}",43,3.0,07512
+_fb8voZHR1tHpaLVaySbgA,El Caldero Restaurant & Sport Bar,1267 Jerome Ave,"{'latitude': 40.83743, 'longitude': -73.92067}",3,1.5,10452
+mSBTahVxcW-NllrYz_g-GA,Cositas Ricas,7919 Roosevelt Ave,"{'latitude': 40.7475741165953, 'longitude': -73.8857217804617}",154,3.0,11372
+uxApxVD_ga59CffZXJwQqQ,Pizzería Cubana,5517 Hudson Ave,"{'latitude': 40.7843859, 'longitude': -74.0149635}",11,3.5,07093
+36C1DDb_8WatJkMt-pg4Iw,Tio Pio,78 Willoughby St,"{'latitude': 40.69208, 'longitude': -73.98566}",100,3.5,11201
+UYHlResz9YaunMnWU6XaPQ,El Campeon De Los Pollos,111-06A Lefferts Blvd,"{'latitude': 40.678019, 'longitude': -73.820479}",122,4.0,11420
+5g5HJqOf8BRpyJsy-u-buA,El Nuevo Yauca Restaurant,465 Bushwick Ave,"{'latitude': 40.70155, 'longitude': -73.93651}",5,4.5,11206
+l7CvHhJYR7FuVWpmnt92IQ,Cocina Candela,706 Bloomfield Ave,"{'latitude': 40.8180860555593, 'longitude': -74.2233974716655}",209,4.0,07042
+3m7HQ3sV8PN_ogpCDiRP9Q,Elena's Restaurant 43,89-48 Francis Lewis Blvd,"{'latitude': 40.718298, 'longitude': -73.757729}",139,3.0,11427
+MaB2ZRpEpTPryLGRKZjn2g,Trash Island,616 Halsey St,"{'latitude': 40.683967075679, 'longitude': -73.9298028391314}",20,4.5,11233
+GszV6jjdoiNCgsiIhLnSmg,El Pabellon De Oro,1501 Westchester Ave,"{'latitude': 40.8286545, 'longitude': -73.8799436}",45,4.0,10472
+Wfx6Kt-ySixqkBmpW1WcvA,Plantain Werkes,147-21 Jamaica Ave,"{'latitude': 40.70195, 'longitude': -73.80714}",7,4.5,11435
+w2vJzCXD6lodkFdc3cKkSg,Noches de Colombia,"370 W Route 46,","{'latitude': 40.8556845, 'longitude': -74.0450481}",133,3.0,07601
+oBmL0jr575wzszVGdqfVoA,Tios Bistro,421 Malcolm X Blvd,"{'latitude': 40.81178, 'longitude': -73.94289}",187,3.5,10027
+69pq6R-8bhDv9FZ8sp94nw,La Familia Restaurant,938 4th Ave,"{'latitude': 40.65486, 'longitude': -74.00416}",19,3.0,11232
+JReyk3YJrscGEc6Q3AEgdA,Campeon Del Pollo Restaurant,107-02 Corona Ave,"{'latitude': 40.74347, 'longitude': -73.85608}",2,5.0,11368
+zyVRaUyISh7-qS3Z-jWsOg,Kombit Bar & Restaurant,279 Flatbush Ave,"{'latitude': 40.67937, 'longitude': -73.97382}",133,3.5,11217
+c2_vGr_fqC3MAskfqto7dw,Brisas Express Restaurant,1360 White Plains Rd,"{'latitude': 40.83478, 'longitude': -73.86283}",13,3.5,10460
+lDPfMSB7z2OAJC9wedwvKQ,Puerto Rico Resturant Pizzeria,5616 5th Ave,"{'latitude': 40.64152, 'longitude': -74.014417}",22,3.0,11220
+yy0E-rhiKzN2ASfDhHVsJg,El Castillo De Jagua 2,521 Grand St,"{'latitude': 40.7143299, 'longitude': -73.98185}",84,3.0,10002
+StsbKxkg7cEUW7CzIP9zeQ,Two Que's Cafe,599 C Chestnut St,"{'latitude': 40.6861905, 'longitude': -74.2690776}",37,4.5,07083
+uOFlloGkvKlRduhps00EmQ,The Original Empanada Factory,602 A Ridge Rd,"{'latitude': 40.802405, 'longitude': -74.122682}",57,4.0,07071
+WHb9YCpHstA35x7BOiJLWg,George's Latin Americana Bristo,11 Graham Ave,"{'latitude': 40.701433, 'longitude': -73.942463}",3,5.0,11206
+5gK5HfMAwtMPl8iGuVNP7A,Ceci's Latin Cuisine,423 Hegeman Ave,"{'latitude': 40.658432, 'longitude': -73.895751}",22,4.5,11207
+NL5hTOe-KoVlALcWLrwb1A,Ceci Restaurant,78 Sherman Ave,"{'latitude': 40.863565, 'longitude': -73.926572}",12,4.5,10040
+WPOqKEYH0E3exc_NFVyghA,El Conuco 2,455 Palisade Ave,"{'latitude': 40.8200989, 'longitude': -73.9888655}",9,3.5,07010
+2SFqtv4Lyafn9PpFHrfk2g,Empanadas Cafe,123 Washington St,"{'latitude': 40.7381404894542, 'longitude': -74.0306659960623}",205,4.5,07030
+psvtihQh7fSiJoqfQTE84Q,La Estrella Del Castillo,948 Nostrand Ave,"{'latitude': 40.6657257080078, 'longitude': -73.9511795043945}",32,3.0,11225
+ZwRNSNephTpuEDpmED26Kg,Don Emilio Diner,1315 Castle Hill Ave,"{'latitude': 40.8352414873058, 'longitude': -73.8521783841457}",23,4.0,10462
+VkBTdKFqK40os6MlKGnNvA,Libertad Restaurant,9619 Liberty Ave,"{'latitude': 40.68091, 'longitude': -73.84246}",44,3.5,11417
+q9YfTpJWNvRpl40rJSW5cg,El Lechon De Negron,1331 Magie Ave,"{'latitude': 40.671248, 'longitude': -74.253892}",240,4.0,07083
+qIOAlXCCYrwN0VxEEH-Tmw,Boqueria Flatiron,53 W 19th St,"{'latitude': 40.7402927726298, 'longitude': -73.9940709810079}",1251,4.0,10011
+ytTwhBk6IUv6ZcMcxrgFlg,El Rey Latino,6342 108th St,"{'latitude': 40.7338441080313, 'longitude': -73.8503124767212}",108,3.5,11375
+x2Ofpsi3x-tW8XoumTZ_sA,Mela's Cafe & Restaurant,71-02 Kissena Blvd,"{'latitude': 40.7297039560062, 'longitude': -73.8154064478506}",137,3.0,11367
+O6S0jcziSh-WeqsmmaD72w,Empanada Central,629 Palisade Ave,"{'latitude': 40.8241, 'longitude': -73.98482}",50,4.5,07010
+4pggdmziFL9nsWSEoFHI1Q,El Sazon De Las Americas 2,440 Bergen Ave,"{'latitude': 40.71644, 'longitude': -74.07793}",8,3.5,07304
+nFnds0bI-R9pqCTfYOdfwg,El Pollo Supremo,6114 Bergenline Ave,"{'latitude': 40.790551, 'longitude': -74.014712}",30,3.0,07097
+w4_ulKMpbzaIRNhAvLuI_Q,Pio-Pio Restaurant Pizzeria,2017 Bergenline Ave,"{'latitude': 40.76545, 'longitude': -74.03427}",5,3.5,07087
+SysAthrDghPL62a6OElOCQ,Local 92,92 2nd Ave,"{'latitude': 40.726957, 'longitude': -73.9885354}",433,4.0,10003
+rZh-JHEqaK6EesZexrpQFQ,Rice & Beans Restaurant,9109 Springfield Blvd,"{'latitude': 40.72566, 'longitude': -73.740001}",139,4.5,11413
+AY4g4h_taSTeYbiToruiKw,Caribbean Delicacies,711 NJ-17,"{'latitude': 40.839133, 'longitude': -74.082794}",37,4.5,07072
+IjqtHEq9l0Wpi1dx_0mIKg,Collados Restaurant,1310 Broadway,"{'latitude': 40.69033, 'longitude': -73.924}",29,4.0,11221
+X8KaE65z48I23ohgch70Mw,Roosevelt Tropical Restaurant,6722 Roosevelt Ave,"{'latitude': 40.7460512, 'longitude': -73.8977815}",29,3.0,11377
+TzuZCfQciY-iAvEWEEDF-w,Sabor Peru,373 Bloomfield Ave,"{'latitude': 40.8409706037935, 'longitude': -74.2777416855097}",284,3.5,07006
+PzSgJNPfxc0B23zEGL3Q4A,Las Americas Restaurant,381 Summit Ave,"{'latitude': 40.7287624, 'longitude': -74.0625707}",22,3.5,07306
+ssSigU3z5CS914GkblvPDQ,Punta Cana,2786 Long Beach Rd,"{'latitude': 40.64387, 'longitude': -73.6397}",53,4.0,11572
+NBf8h4rBlbN3lkPaqevBEg,El Buen Gusto,5201 4th Ave,"{'latitude': 40.64516, 'longitude': -74.01365}",25,3.0,11220
+eW0p8TpZa-_BFG53B7tHgQ,Alcala Restaurant,246 E 44th St,"{'latitude': 40.751148223877, 'longitude': -73.971809387207}",136,4.0,10017
+ep8UAsQmcgBGv-CiCrLnyw,Donjito,122 Mamaroneck Ave,"{'latitude': 40.9491213448911, 'longitude': -73.7334237214233}",79,4.5,10543
+khM6CxlYEY7otMW5ba0CCw,Manchego Koko,1502 Cortelyou Rd,"{'latitude': 40.641022, 'longitude': -73.96426}",145,4.0,11226
+R0yz_bRt689ZWAS9SmrvFA,La Cabana Argentinan Steakhouse,8607 Northern Blvd,"{'latitude': 40.75624, 'longitude': -73.88132}",166,4.0,11372
+6ygb6mQ2jg7VT0NdkA_kRw,El Tipico Vegano,379 Market St,"{'latitude': 40.5099695254736, 'longitude': -74.2798894643784}",2,3.0,08861
+XPZxsUABgJEM5qyT0Bc6Ug,Punta Cana,2151 Lemoine Ave,"{'latitude': 40.856132, 'longitude': -73.967844}",101,4.0,07024
+Nq3vlUA73MirP49zPyxcXw,El Nuevo Yayo Restaurant,5823 4th Ave,"{'latitude': 40.641347, 'longitude': -74.017448}",46,3.0,11220
+WKpX42T6xsGUI9jVHZ1wHA,Pio Pio Cafe & Restaurant,6300 Hudson Ave,"{'latitude': 40.7900004521106, 'longitude': -74.010142303943}",15,2.5,07093
+U2IpEzVdKkJh6ZkolSMBrg,El Rincon De Macon,522 Nostrand Ave,"{'latitude': 40.680941, 'longitude': -73.949836}",3,1.5,11216
+LI6r2gaOFSZE93BKx8ULUQ,Pasteles Y Algo Mas,63 Ridgefield Ave,"{'latitude': 40.8495410767205, 'longitude': -74.0256552985268}",173,4.0,07660
+lv5lON6QSqdecZqe5s2bQQ,Pampas Argentinas,105-07 Metropolitan Ave,"{'latitude': 40.7102099, 'longitude': -73.84804}",186,3.5,11375
+1qGPOrTUcU846FAFFSkIyQ,Sazon Ramirez,174 S Ave,"{'latitude': 40.63569, 'longitude': -74.166311}",4,2.5,10303
+_ooYOJmzJajwANpuQXSC_A,Tavares Restaurant,234 Cleveland St,"{'latitude': 40.67941, 'longitude': -73.88562}",50,3.0,11208
+Z_XO4sGiODqZ6Hr-ejNQWQ,Cuban Supreme,857 Ninth Ave,"{'latitude': 40.767128, 'longitude': -73.986677}",1,1.0,10019
+jmgeN5Bt4TGlfyWe1Fz4ew,Sabor Restaurant & Bakery,1520 College Point Blvd,"{'latitude': 40.7836286, 'longitude': -73.84598}",27,3.5,11356
+ucqro3H9oxQM4H8Mpklg4A,El Tipico,2933 Fulton St,"{'latitude': 40.67952, 'longitude': -73.88663}",5,3.5,11207
+lfawpPWZxsVBjCjUE7HTCw,Forest Hills Coffee Shop,9607 Metropolitan Ave,"{'latitude': 40.71151, 'longitude': -73.85607}",57,4.0,11375
+kVo-GFgFAG-dQS0zhXVG8A,Tu Tipico,1195 Castleton Ave,"{'latitude': 40.63436, 'longitude': -74.12216}",15,3.5,10310
+gQcyjeAqqFHjnp0Yl_6uIw,El Conuco Restaurante,715 Summit Ave,"{'latitude': 40.7585335, 'longitude': -74.0439224}",89,3.5,07087
+jhpeHVxJSmGdD61MTrKi7A,Salud Bar & Grill,1413 Bushwick Ave,"{'latitude': 40.6846559, 'longitude': -73.9090595}",305,4.0,11207
+SetHDeJ7XJ6vx_j9qlHjwg,Milanes Spanish Restaurant,168 W 25th St,"{'latitude': 40.7450752258301, 'longitude': -73.9944458007812}",124,4.0,10001
+IoBhf40tO8GYXcrOFZaJPw,Meson Tropical,23 E Elizabeth Ave,"{'latitude': 40.63149, 'longitude': -74.25203}",139,3.5,07036
+dblEevwbNXl56I4L6TULGg,Lola's,153 14th St,"{'latitude': 40.753263, 'longitude': -74.027242}",195,3.5,07030
+UcODjeMwv944wyjdmnsRQQ,Quezada Restaurant,1212 Flatbush Ave,"{'latitude': 40.640697, 'longitude': -73.956184}",23,4.0,11226
+RnVHE26hi79bDtZ9Y4K_iw,Caridad Restaurant,9019 Jamaica Ave,"{'latitude': 40.693226, 'longitude': -73.854018}",79,3.5,11421
+MuGKUhaZk7lFobsGDDZeLA,3 Way Restaurant,384 E 188th St,"{'latitude': 40.8598542023579, 'longitude': -73.8935745917129}",63,3.5,10458
+gGeu7M-qXOQGaYgTPRzjIg,Cabo,3A N Park Ave,"{'latitude': 40.6562946, 'longitude': -73.6451144}",643,3.0,11570
+3QL775s9XyFzC75htzH6Qg,Cocina Latina Restaurant,4986 Broadway,"{'latitude': 40.8681143747441, 'longitude': -73.9190982467405}",8,3.5,10034
+RkWeFEtnl2osbDlpcVtItA,Grand Liquor & Delicatesen,124 Grand Ave,"{'latitude': 40.889233, 'longitude': -73.97611}",1,5.0,07631
+eaevhIPvdYa7A6jTrrCewQ,Dulce De Leche Bakery,6510 Bergenline Ave,"{'latitude': 40.7933, 'longitude': -74.0126}",292,4.5,07093
+BuDi2n6JH2jIlGIqQG-XPQ,Quisqueya Restaurant,214 Bright St,"{'latitude': 40.71949, 'longitude': -74.05469}",6,4.0,07302
+cOLIei5u0eRnSMWL-lKQCQ,Los Primos Restaurant,704 Grand St,"{'latitude': 40.711341, 'longitude': -73.944511}",50,3.0,11211
+fcb-GO2hMaFmRUqYVexVeQ,El Sazon De Las Americas,305 Grove St,"{'latitude': 40.7191, 'longitude': -74.04361}",68,3.0,07302
+bHSX9XCfa_WfnPj0zH7e9g,La Esquina Criolla,9467 Corona Ave,"{'latitude': 40.742232244687, 'longitude': -73.8675969292999}",138,4.0,11373
+8p1HTzXEcC3TCbLz59xMng,La Diagonal,185 St Nicholas Ave,"{'latitude': 40.8061, 'longitude': -73.95302}",212,4.0,10026
+_uln4MCsceNH4dCQNoALNQ,Arepas Cafe,3307 36th Ave,"{'latitude': 40.755835, 'longitude': -73.927691}",914,4.0,11106
+vNfFSU8hU41eApN_RwLyqA,Chiflez,95-02 Roosevelt Ave,"{'latitude': 40.7488391, 'longitude': -73.8710796}",81,4.0,11372
+r489AYxavXNSiq54QfnBSg,Caridad Restaurant,135 W Kingsbridge Rd,"{'latitude': 40.86945, 'longitude': -73.90308}",95,3.5,10468
+8iaDJ-RFv2o8FCk1CdaI8g,Nano’s Creamery,610 Main Ave,"{'latitude': 40.85965, 'longitude': -74.12439}",2,4.5,07055
+29eekLV2Srr_H5Ihn4K8Yw,Noches de Colombia,90 W Palisade Ave,"{'latitude': 40.8966616961043, 'longitude': -73.9817560016196}",402,3.5,07631
+3nNxsdiBfa4-FKmRIiTHjQ,La Gran Via Bakery,135 48th St,"{'latitude': 40.77946, 'longitude': -74.0176}",37,4.5,07087
+1HPqMfG46M_TUBwR28cUFw,Dominican Valle,1601 Saint Nicholas Ave,"{'latitude': 40.85527, 'longitude': -73.92983}",3,4.0,10040
+KBDRkNdoKG3wCqWI5trGyg,La Nueva Espana,606 W 207th St,"{'latitude': 40.8674324, 'longitude': -73.9212347}",93,3.0,10034
+srbKFMHjYqVpHJbmwHwl-A,Chapo's Latin Cuisine,71 Lackawanna Ave,"{'latitude': 40.89001, 'longitude': -74.21485}",8,5.0,07424
+GoCejZJAZOaV7GWmJGBiDw,Richie's Place Coffee Shop,169-02 Hillside Ave,"{'latitude': 40.71053, 'longitude': -73.7927799}",53,4.0,11432
+Q_l7rw-Z4w37H1MNS-HmrA,Rinconcito Latino Restaurante,1110 S Wood Ave,"{'latitude': 40.624878, 'longitude': -74.241538}",7,4.5,07036
+P4TeoFeySfz_s8h0xNzEvA,Exquisito,1542 Gates Ave,"{'latitude': 40.6992332158417, 'longitude': -73.9124437421516}",18,3.5,11237
+gpW5qymVvta9bXxTesJxPA,Empanadas Monumental,752 Allerton Ave,"{'latitude': 40.8653291, 'longitude': -73.86527}",12,3.5,10467
+kE0nfIY9l_guZTo8AlfHeg,Fresh Twist juicebar & cafe,10 New Dorp Ln,"{'latitude': 40.5753893, 'longitude': -74.1192837}",73,4.5,10306
+8PhwiTru5teSaZ8C6hrIww,Casa Mono,52 Irving Pl,"{'latitude': 40.7359281440206, 'longitude': -73.9871550967319}",1230,3.5,10003
+LQQZHp0Tuvr7-yYTFTVq6w,Yoly Restaurant,118 Featherbed Ln,"{'latitude': 40.8459999, 'longitude': -73.91998}",22,4.0,10452
+BQnKo6E-wcuOafcDXoo1-A,Las Tres Hermanas,1160 E Jersey St,"{'latitude': 40.6649845607, 'longitude': -74.2139041051}",2,5.0,07201
+vfxQznYWTfhEcfUlUUqrVg,Mambo Empanadas and Latin Bistro,313 Union Ave,"{'latitude': 40.83601, 'longitude': -74.11355}",104,4.0,07070
+mevLCY9LcK7IFthpI70N6Q,El Rancho Dominicano,1157 Flatbush Ave,"{'latitude': 40.6421281935456, 'longitude': -73.9568598512909}",40,2.0,11226
+pEyFR7rZDjOuOY3HkV57-A,Mi Tierra Restaurant,243 Belleville Ave,"{'latitude': 40.7876385419098, 'longitude': -74.160036344607}",94,4.0,07109
+FsJt6uyk_UcWbQNP1S79Cw,Northern Cafe Grill & Chimi,101-13 Northern Blvd,"{'latitude': 40.7576403407604, 'longitude': -73.8669224828482}",30,3.0,11368
+0Ksjq5ErmeF2r03X2IAvyQ,La Parada 2,5911 4th Ave,"{'latitude': 40.6410751970721, 'longitude': -74.017901215892}",30,2.5,11220
+RcDLM3c1H1USH1UtdaeUmA,Bailey Seafood Market,146 W 231st St,"{'latitude': 40.878063, 'longitude': -73.902848}",6,2.5,10463
+zBFiSLhrhtLR42deZcj46Q,Dulce de Leche Bakery,376 Central Ave,"{'latitude': 40.74765, 'longitude': -74.04791}",244,4.5,07307
+h2Setp5mU4hXH0P9sZNJ_w,Rincon Restaurant,6417 Park Ave,"{'latitude': 40.7894877001152, 'longitude': -74.0059829503298}",5,4.0,07093
+Q-w1wL-HA2RLgRWseeqsDA,El Continental Restaurant,672 5th Ave,"{'latitude': 40.66211, 'longitude': -73.99288}",53,3.5,11215
+hn8gzbzCxwvpfA9wG7AjXg,La Fondita,577 5th Ave,"{'latitude': 40.664769, 'longitude': -73.989687}",5,4.5,11215
+XR1jM0e7G3HYOMgi4CXlnw,188 Bakery Cuchifritos,158 E 188th St,"{'latitude': 40.8614682, 'longitude': -73.8983208}",78,4.0,10468
+X90sgtmcR-FdUndlbA3EyQ,Santo Domingo Restaurant,862 New Lots Ave,"{'latitude': 40.66775, 'longitude': -73.87888}",36,4.0,11208
+QQl47NzT8VCTBtqIpAcAAg,La Isla Restaurant,510 Willis Ave,"{'latitude': 40.81512, 'longitude': -73.91827}",4,4.5,10455
+zba7MpRrfl-T6V0XkbgYgQ,Jimmy's 38 NYC,156 W 38th St,"{'latitude': 40.7531009919554, 'longitude': -73.9879021457895}",476,3.0,10018
+voSYlJnDLePsAFTqT7p3PA,Brisas Del Caribe,1207 Castle Hill Ave,"{'latitude': 40.832159, 'longitude': -73.851463}",176,3.5,10462
+jtFkc3mJBCtjUzR8sS6E3Q,El Rey II Restaurant,1064 Liberty Ave,"{'latitude': 40.67808, 'longitude': -73.86987}",115,3.5,11208
+xGwVfRSgkuuQGUSEa2d7uw,Mama's Empanadas,85-05 Northern Blvd,"{'latitude': 40.7559945, 'longitude': -73.8824135}",377,3.5,11372
+afpW_1G784ZJn92bMyXOTg,Sofrito Latin Cuisine,194 Main St,"{'latitude': 40.8561435698034, 'longitude': -74.0254032690897}",35,3.5,07660
+A2gC9zBdfvvHuqzfWKXs-w,Judy's Spanish Restaurant,1505 Lexington Ave,"{'latitude': 40.78665, 'longitude': -73.95019}",186,3.0,10029
+EayuK2X0_TQuHnZlMRiViw,Caridad and Louie's Restaurant,1660 E Gun Hill Rd,"{'latitude': 40.86587, 'longitude': -73.83774}",151,3.0,10469
+W_pQorY2cELJAEHjK5q_tQ,La Cocina de Mama,5613 Metropolitan Ave,"{'latitude': 40.71313, 'longitude': -73.9065}",58,3.5,11385
+IISs7Ze-_wHPkOttHnJGUQ,Las Palmas Dominicanas,201-09 Northern Blvd,"{'latitude': 40.757536, 'longitude': -73.781062}",24,3.5,11361
+gz4gPa8ZLTyGes-YaL2Sjw,Caribe Restaurant,2 E Gun Hill Rd,"{'latitude': 40.88248, 'longitude': -73.88115}",66,2.0,10467
+-FM9w4LeulXXTLqklGYb3w,Caridad Restaurant,1594 Westchester Ave,"{'latitude': 40.82902, 'longitude': -73.87571}",5,1.0,10472
+VU6Kh8aNr5wr__rTga61-A,Jacup's,52-17 69th St,"{'latitude': 40.733052, 'longitude': -73.895594}",110,4.0,11378
+sKx4Laf_XTwRex86M0jp1A,Sangria Cafe,2085 Bartow Ave,"{'latitude': 40.8694235021877, 'longitude': -73.8272849569855}",198,3.5,10475
+MqW5xAuGsytCizpx8Pls5A,Boca Chica,96-20 37th Ave,"{'latitude': 40.7516685051303, 'longitude': -73.8700001694646}",42,3.5,11368
+KdnsIxvlqeKEuFO0RYD7tw,Raices Colombianas,86-02 37th Ave,"{'latitude': 40.74995, 'longitude': -73.88007}",77,3.5,11372
+t1_qBEjXscQn-mp6-or_sw,Suyo Gastrofusion,1401 Plaza Dr,"{'latitude': 40.84061, 'longitude': -73.91825}",174,4.5,10452
+lmiwPS9tl3cyMDGDeVstqQ,New Apolo,508 Grand St,"{'latitude': 40.71078, 'longitude': -73.95076}",143,3.5,11211
+AflnoQBr01QmQIq5hVH-iA,La Essencia Restaurant,5085 Broadway Ave,"{'latitude': 40.87087, 'longitude': -73.91505}",13,3.5,10034
+9x_PxjO25TNHsQFe2XSXtA,El Nuevo Caridad Restaurant,2257 2nd Ave,"{'latitude': 40.79688, 'longitude': -73.93809}",131,3.0,10029
+NxpjfoxMypjQvj3iAqO6bQ,La Brisa Restaurant,3779 103rd St,"{'latitude': 40.75133, 'longitude': -73.863099}",92,3.5,11368
+e1701VvvJIr-SC-b6KGo7g,El Dorado,54-55 Myrtle Ave,"{'latitude': 40.69988, 'longitude': -73.90913}",36,3.0,11385
+U1E3uSnr0OTeRL5LhmV3Yw,La Isla,1883 3rd Ave,"{'latitude': 40.79029, 'longitude': -73.94538}",28,2.5,10029
+Cf_t7vFv2t9tmBZZCMEd-A,O'LaLa Empanadas,600 Communipaw Ave,"{'latitude': 40.717490533191, 'longitude': -74.0729264946894}",261,4.0,07304
+UBUoQ1UDPRioPOb4lJw94w,Rosa's Cafe,3003 38th Ave,"{'latitude': 40.7541086198463, 'longitude': -73.9324951171875}",29,4.0,11101
+Rgdcmb9Wse2_9CQiqCgtLA,Empanadas on the Hill,343 E Gun Hill Rd,"{'latitude': 40.87894, 'longitude': -73.87289}",8,4.5,10467
+Pqs6Mq4Oi5r-8WtRryxO_g,Star Restaurant Cafe,1298 Westchester Ave,"{'latitude': 40.8274728, 'longitude': -73.8861619}",3,2.5,10459
+-Nsg4B-YDm-WnyciPZq5GA,Karina Restaurant,201 Ocean Ave,"{'latitude': 40.69532, 'longitude': -74.09144}",22,3.5,07305
+QNsnO6sRi0G6bZF0QdC-dQ,The Snack Shack-Englewood Boat Basin,E Palisade Ave And Henry Hudson Dr,"{'latitude': 40.8757250319338, 'longitude': -73.9465664341031}",24,3.5,07632
+c-1iL-QKxw0yvBRz-AOqaA,Lula's Latin Cuisine,86 S Washington Ave,"{'latitude': 40.92492, 'longitude': -73.99718}",88,3.5,07621
+aff_CQt_QFHgnr2aebZlvw,"El Monumento Restaurant, Bar & Lounge",1185 Broadway,"{'latitude': 40.6926, 'longitude': -73.92724}",3,3.5,11221
+FJpiwlGUPgAQeTr7D6ZWgw,El Sabroso,414 Central Ave,"{'latitude': 40.74881, 'longitude': -74.0472}",120,3.5,07307
+-xzwaYFBSEC606kdgqtKog,Juniors Seafood Restaurant,20 W Burnside Ave,"{'latitude': 40.853697, 'longitude': -73.90828}",15,3.0,10453
+fESRcs_UtLbrwm19T5L6mA,Mi Tierra Cafe,8127 Bergenline Ave,"{'latitude': 40.8036247, 'longitude': -74.0054285}",27,3.0,07047
+aSw7zQxHT_VgAogUw9jWMw,Marys Coffee Shop,905 Dekalb Ave,"{'latitude': 40.69282, 'longitude': -73.94042}",38,4.5,11221
+oBK1feva04fMekyxrOlSVQ,Tiki Taka Sports Lounge,270 Morris Ave,"{'latitude': 40.66796, 'longitude': -74.21678}",3,2.5,07208
+tM5ooPeeKmjjbtzesvsvtw,Savage Sicko,37-10 31st Ave,"{'latitude': 40.7617, 'longitude': -73.9185}",32,4.0,11103
+LmexIu8SAFWC3Ec5EmZm0Q,Mama Ana's Empanadas,590 Union Blvd,"{'latitude': 40.8992153148559, 'longitude': -74.2191314614545}",87,4.0,07512
+FS_C-BKwcl2-RvuRtW9H_g,Rico Pollo,3352 Fulton St,"{'latitude': 40.68352, 'longitude': -73.87184}",85,3.5,11208
+DrI49fxN3VBS7CpwuYoxIw,Empanadas Monumental,681 Melrose Ave,"{'latitude': 40.8195453641609, 'longitude': -73.9164101715118}",2,1.5,10455
+fHrf_ji3ukqc7O3jU5kGCA,La Esperanza Restaurant,1738 John F Kennedy Blvd,"{'latitude': 40.70007, 'longitude': -74.09414}",6,4.0,07305
+-2KLOAWzJ-wbUSC40WR8EA,Allen Restaurant,1201 Randall Ave,"{'latitude': 40.8117294311523, 'longitude': -73.8902359008789}",4,3.5,10474
+XPRxN1xItzd9beJnrP34xQ,Capri Restaurant,1342 St Nicholas Ave,"{'latitude': 40.84677, 'longitude': -73.93536}",14,3.5,10033
+52kgzsOIYvXo2NPAZ369qg,Casa Restaurant & Lounge,3607 E Tremont Ave,"{'latitude': 40.82904, 'longitude': -73.82429}",128,4.0,10465
+CSPX01yk-NuFXcPPqKXYzw,Lola's Latin Bistro,87 Central Ave,"{'latitude': 40.5416845, 'longitude': -74.3677016}",263,3.5,08840
+Mo7mXWu2w0wBy0CyzvWJ9g,Parrilla Azteca,1288 Westchester Ave,"{'latitude': 40.8271972, 'longitude': -73.8866791}",5,4.0,10459
+ZO9dbcWHLGBeBRZGADfImw,Noches de Colombia,19 Elm St,"{'latitude': 40.80923, 'longitude': -74.213267}",330,3.0,07042
+o74iullEiWW6mw0v-8Lblg,Banana King,7316 Bergenline Ave,"{'latitude': 40.79817, 'longitude': -74.00896}",80,3.0,07047
+T_hmL9ktXYZoB2aWwydU9Q,Dyckman Express Restaurant,101 Dyckman St,"{'latitude': 40.86184, 'longitude': -73.92468}",93,3.0,10040
+02e8u16050kI58fq5EtNIw,Molino Rojo Restaurant,101 E 161st St,"{'latitude': 40.8275999, 'longitude': -73.92424}",94,2.5,10451
+nAyLlSSi7ih63aupGlLjMg,Estrella Salvadorena,1215 Summit Ave,"{'latitude': 40.7615634649957, 'longitude': -74.0417203679681}",1,4.0,07087
+d-GY6lCmyN-9hBSPvCfGJA,Empanada City,48 Cypress Ave,"{'latitude': 40.7082998, 'longitude': -73.9202672}",9,4.0,11237
+Hdb6QepRYoFm62Ce8wj4Qw,Jordan's Snack Bar & Burger,4419 Broadway,"{'latitude': 40.85566, 'longitude': -73.93341}",24,3.5,10034
+682tbIUxjAvPG2fRdOFkeQ,El Valle Seafood Restaurant,231 Sherman Ave,"{'latitude': 40.865661, 'longitude': -73.919539}",12,2.5,10034
+B6yN9f7ar7b0Lhd2bEtfQw,El Valle Tipico,849 Castle Hill Ave,"{'latitude': 40.824566, 'longitude': -73.849636}",7,4.5,10473
+8E_cAx9QaTUP-IlUiPCl5g,Mama's Empanadas,91-11 Jamaica Ave,"{'latitude': 40.69346, 'longitude': -73.85344}",34,3.5,11421
+-xH0VQqa58CsHjFis54VYg,Cana Mofogo Steakhouse,533 Main Ave,"{'latitude': 40.8575291951497, 'longitude': -74.1234685262044}",37,3.5,07055
+Yt8vEb7UPe9LpkxRiItG-g,Nataly's Kitchen 2,296 Palisades Ave,"{'latitude': 40.87594, 'longitude': -74.025714}",1,5.0,07603
+arlnuwapCMwE0lYIv7ZdBg,Evo Cocktail Lounge & Restaurant,1306 Unionport Rd,"{'latitude': 40.83450851, 'longitude': -73.85358207}",78,3.0,10462
+BTOJwXrjf5lNBd1a6Vv0Ig,Nancy Restaurant,2961 Fulton St,"{'latitude': 40.67982, 'longitude': -73.88535}",22,2.5,11208
+4W_qZLf99jgUaqkCcNxm-w,Tierras Centro Americanas,87-52 168th St,"{'latitude': 40.7103914, 'longitude': -73.7951204}",26,4.0,11432
+bVaMYSK0kLSX4BPcQbB_dw,Sabor Toribio Restaurant,446 Wilson Ave,"{'latitude': 40.693219313785, 'longitude': -73.91268029809}",11,3.5,11221
+aLj26m4EIyK_sdX4iNixUA,El Castillo Restaurant,1227 Bedford Ave,"{'latitude': 40.68124, 'longitude': -73.9532}",9,2.0,11216
+TsiaDFMCRBvZiKk-P3d9vg,Mama's Empanadas,32-41 Steinway St,"{'latitude': 40.75775, 'longitude': -73.91959}",389,3.5,11103
+fL8LOuVbCzop2I9cGVvEUw,212 Hisae's,212 E 9th St,"{'latitude': 40.72964, 'longitude': -73.98879}",314,4.0,10003
+a5-ogV7bxhTxq64HNinByA,Pop's Cocina & Bar,8522 Jamaica Ave,"{'latitude': 40.6925333272552, 'longitude': -73.8582141378815}",109,3.5,11421
+6CaGhpvNWMazJZL1v_JkCA,PEQUE Vinos + Tapas Bar & Restaurant,231 W 145th St,"{'latitude': 40.82248, 'longitude': -73.94064}",212,4.5,10039
+zlZ64IpM7L8_-FN6E8OrjQ,El Malecon,8727 4th Ave,"{'latitude': 40.62118, 'longitude': -74.02874}",48,3.0,11209
+5jLva_lspl1DbcjbuNzvQA,Tropical Grill,2419 2nd Ave St 124,"{'latitude': 40.8024387069236, 'longitude': -73.9340828530467}",12,3.5,10035
+vnDkQsM9ijg0AzkZBmCofA,Los Viajeros Food Truck,,"{'latitude': 40.76879, 'longitude': -73.9898}",60,4.5,10019
+Oit6llRlkV_Mnnz-blxa8A,La Cocina,35 Little Falls Rd,"{'latitude': 40.8883989951165, 'longitude': -74.2750320135889}",30,4.0,07004
+fM1_RU1PfNWKXcltg70KqA,Mi Bella Colombia,4512 Bergenline Ave,"{'latitude': 40.77961, 'longitude': -74.02315}",4,4.0,07087
+IPMPplvXeOOMLAvEc_ZNrA,ME Casa Catering & Food Truck,694 Ocean Ave,"{'latitude': 40.709954, 'longitude': -74.076138}",27,5.0,07305
+lPeT8Dmu6lzufQCWcgpVow,Juana's Restaurant #1,2709 Summit Ave,"{'latitude': 40.7715102282484, 'longitude': -74.0344850832683}",24,4.5,07087
+5gqXTYjiUuanvzKPx_nQhQ,Surrender Cafe,695 Rt 35 Amboy Ave,"{'latitude': 40.5632645233569, 'longitude': -74.2862758523843}",253,4.0,07095
+eEo3SmqjLZzm6vApdOoLPw,Loma # 5,454 Rockaway Ave,"{'latitude': 40.668774, 'longitude': -73.910812}",17,3.0,11212
+AuKtb5a8DEe1qSVe_vwpzQ,Side Park Cafe,1230 5th Ave,"{'latitude': 40.7931, 'longitude': -73.95137}",34,3.5,10029
+3AGaQvXeMS0-CpJcfOqAPw,El Nuevo Caridad,1618 St Nicholas Ave,"{'latitude': 40.8553799, 'longitude': -73.92907}",49,2.5,10040
+HZMgIGsAAHvtli5ANbMINw,Sangria Tapas Bar & Restaurant,9541 Sutphin Blvd,"{'latitude': 40.6974071, 'longitude': -73.8056635}",150,3.5,11435
+k-MfUhk-Wjpv53EXFn0wDA,El San Juan Restaurant,1429 5th Ave,"{'latitude': 40.80111, 'longitude': -73.94592}",38,3.0,10035
+myZKkxpA6i23KtGHXClmwQ,El Castillo Del Pollo,128-08 111th Ave,"{'latitude': 40.682743, 'longitude': -73.81303}",40,4.0,11420
+AixhSheRvbZJ8XR_F2UKwg,Mi Casa Bar & Restaurant,116-20 Jamaica Ave,"{'latitude': 40.6991882, 'longitude': -73.8326035}",49,2.5,11418
+4hmrhWigycWfnOh2iZgEgA,Pizzeria Montevideo,531 Bayway Ave,"{'latitude': 40.6450576782227, 'longitude': -74.2123870849609}",10,4.5,07202
+0FI4Ph7Gg-sv7LG0T8UuIw,BESO NYC,45-15 28th Ave,"{'latitude': 40.76352, 'longitude': -73.90899}",3,4.0,11103
+pM8pE41aBiR_qwVgTx_Ieg,Don Leo's,648 Soundview Ave,"{'latitude': 40.81838, 'longitude': -73.86272}",25,2.5,10473
+_uf404kJI3KuvK4zpE_DNQ,Geminis II Restaurant,109 Graham Ave,"{'latitude': 40.70547, 'longitude': -73.94321}",18,2.5,11206
+Z_fTnQgBQTFfErmHApk1hg,La Primicia,452 W Side Ave,"{'latitude': 40.7167891412973, 'longitude': -74.0851530432701}",37,3.5,07304
+8lXGDpfOkAFtwEN040GKXw,Sabroso Express,126 60th St,"{'latitude': 40.785938886288, 'longitude': -74.0100780129433}",32,4.0,07093
+ZbFlz4AKpPZX56aKkKe_rw,La Tinajita Pizzeria Cubana,2017 Bergenline Ave,"{'latitude': 40.765435, 'longitude': -74.034112}",3,2.5,07087
+Vkr7JzCF3CEkjUw7domtXw,Cocina Borinquena,3292 Washington Rd,"{'latitude': 40.46996, 'longitude': -74.3032}",36,4.0,08859
+-nPEB-Ad0HzWfHR4VH-TlQ,Mi Casa Restaurant,372 Communipaw Ave,"{'latitude': 40.71216, 'longitude': -74.06327}",24,4.0,07304
+WgQkB7cbPNgj0pLin7gQtw,La Nueva Victoria,2536 Broadway,"{'latitude': 40.79372, 'longitude': -73.971954}",96,3.0,10025
+wp2Qn2XY9axHi4TMYqRNFw,La Isla Restaurant,738 West Side Ave,"{'latitude': 40.725506, 'longitude': -74.077103}",17,4.5,07306
+to_hmXb3Me-SZsiMfYuoGw,Lebron Restaurant,1567 Pitkin Ave,"{'latitude': 40.66909, 'longitude': -73.91565}",5,2.5,11212
+5Ec833fc4zNdsPxujH5JSw,Gusto Latino,745 W Side Ave,"{'latitude': 40.72598, 'longitude': -74.07748}",48,4.0,07306
+JVE7hjcTO6UYTRS5zLldyg,Tavares Restaurant,96-10 Jamaica Ave,"{'latitude': 40.6943402, 'longitude': -73.8490283}",11,2.5,11421
+DsUkklUsDvNPa2naRqcz3w,Rincon Latino Restaurant,4360 White Plains Rd,"{'latitude': 40.8973541259766, 'longitude': -73.8547973632812}",29,4.0,10466
+i2XA7wlgJc7FwaE3JQKdGw,El Nuevo Valle,1846 Jerome Ave,"{'latitude': 40.848663, 'longitude': -73.91117}",22,3.0,10453
+WVEEkiL7rBV-4BYoQzJhqA,Punto Cibaeno,164-05 89th Ave,"{'latitude': 40.7076097, 'longitude': -73.7970192}",14,3.0,11432
+cWd9gwd9UZvR3D56VkZCnw,Empanada Mania,62 S Washington Ave,"{'latitude': 40.9257324, 'longitude': -73.9968245}",142,4.5,07621
+BEfIfh7tLLHTEzyabtvNfg,Rico Chimi,80-01 Atlantic Ave,"{'latitude': 40.6850885650715, 'longitude': -73.8603838149892}",73,2.5,11421
+micDEslexkJF7jysBtw1_Q,Mama Elena's Restaurant,929 Main Ave,"{'latitude': 40.8688877, 'longitude': -74.1335665}",56,4.0,07055
+8o-B_1q4XB48CmdaXdm2KQ,Raices,565 W 207th St,"{'latitude': 40.86633, 'longitude': -73.92016}",133,3.5,10034
+n2s37F8sbDx4ti7DwWW_mA,Mi Casa Dominican Restaurant,177 W Merrick Rd,"{'latitude': 40.652832, 'longitude': -73.5871277}",105,4.0,11520
+3o-tTebOwrjT02c1e9a4Kg,Kreyol Flavor Flatbush,1738 Flatbush Ave,"{'latitude': 40.62779, 'longitude': -73.94259}",45,3.5,11210
+U_wnXh0dXPOCIOZV7ixDAg,La Casa Del Sabor,2728 E Tremont Ave,"{'latitude': 40.8422503799242, 'longitude': -73.8451034202028}",21,2.0,10461
+Zub8pI8HmU2Ff9VTZXPz1A,FK Restaurant,302 Martin Luther King Dr,"{'latitude': 40.7092271, 'longitude': -74.0806967}",3,3.5,07305
+8HDHrqq2GYhfieRlmuCAPg,La Perrada De Chalo,8312 Northern Blvd,"{'latitude': 40.7555428, 'longitude': -73.884175}",105,3.0,11372
+Pi-AJhThWqhb89mjHU65Nw,Majestic restaurant,709 E 187th St,"{'latitude': 40.854152, 'longitude': -73.8840031}",15,2.5,10458
+3Ay1CvJryfW2EUl4oUtXyQ,Empanadas or Nada,446 Bloomfield Ave,"{'latitude': 40.8134745340532, 'longitude': -74.2172675952315}",54,4.0,07042
+tt3jS9-slOiaLJX8euFxHQ,El Sabor Tropical Restaurant,325 Totowa Ave,"{'latitude': 40.917335, 'longitude': -74.1862809}",97,3.5,07502
+IJG5kUHB0u4sE4_QcIJu1g,Para Ti Colombia Con Sabor,172-35 Hillside Ave,"{'latitude': 40.7120813946899, 'longitude': -73.7893348390487}",80,3.0,11432
+kqCPNWYgjuwO3pHPN6e1aQ,Valiente's Restaurant,1921 Mott Ave,"{'latitude': 40.603745, 'longitude': -73.752428}",3,3.5,11691
+msXHoUlRUddwiOlVQ3VWVg,Tropix Latin Food,733A W Side Ave,"{'latitude': 40.72558, 'longitude': -74.0776}",11,2.5,07306
+Loa0YPKxbnLyoifnXUD5Xw,Blue Cafe,82-63 Broadway,"{'latitude': 40.7420144740326, 'longitude': -73.8809997}",33,2.5,11373
+DP3laLpTDCRIlisGIeqTXA,El Presidente II,4-10 E 208th St,"{'latitude': 40.8807164, 'longitude': -73.8833643}",35,2.0,10467
+IAm3GdYuE3az6GhefjMIZA,MiNi's Latin Fusion,237 Main St,"{'latitude': 40.914889, 'longitude': -73.7724245}",27,4.5,10801
+vA6Oy4TCvV_aYRUqAa4yLg,Justin's Restaurant,245-13 Francis Lewis Blvd,"{'latitude': 40.66492, 'longitude': -73.734737}",47,3.0,11422
+RA4vloUxuUgV4-AFy5KiQw,La Cocina II Restaurant,100 Moore St,"{'latitude': 40.703631, 'longitude': -73.941488}",18,2.5,11206
+fKp-Oo-0B9dzvyU6M5dqeg,Noches de Colombia,233 Central Ave.,"{'latitude': 40.7429211088243, 'longitude': -74.0515814462259}",126,3.0,07307
+VZCsWIFs8WIJ0tD8CSIS5w,El Carretero,4112 Bergenline Ave,"{'latitude': 40.77716, 'longitude': -74.02507}",6,3.5,07087
+6ApwMjS__SaGXSwFqRWpOA,El Rinconcito,47 Westfield Ave,"{'latitude': 40.6686347051711, 'longitude': -74.2180854961062}",9,4.5,07208
+fk4krmpV0eC-7ub_7az9iQ,El Tamalero,3518 Church Ave,"{'latitude': 40.65098, 'longitude': -73.94412}",3,3.0,11203
+cRwpZQaoaPsdG2tAYY7-8Q,Banana King,4909 Bergenline Ave,"{'latitude': 40.7824911767414, 'longitude': -74.0214324742556}",5,3.0,07093
+j-2Y-wDfYeVj-5bLlT5zDQ,El Viejo Yayo Restaurant,97-12 101st Ave,"{'latitude': 40.68468, 'longitude': -73.84363}",68,3.0,11416
+3yxcngyQT7gZ_5fvIOm2Ng,Sonora,179 Rectory St,"{'latitude': 41.0094, 'longitude': -73.66082}",179,4.0,10573
+WNGqj-SkAAEt97R9kxCFWg,Empanada Spanish Grill,8 Market St,"{'latitude': 40.8456249, 'longitude': -74.1582487}",129,4.0,07012
+cnXZiXFsk7lmlKD2JT3Pdg,El Gran Canario 2,111-17 Jamaica Ave,"{'latitude': 40.697436, 'longitude': -73.836843}",48,2.5,11418
+guI5JpxIJQO552tDljZHqg,Las Buenas Nuevas,3130 Henry St,"{'latitude': 40.7742703799548, 'longitude': 74.032422}",1,5.0,07087
+bbAYf0ly9GZGPVPDKehLFg,Capelli's Cafe,107-11 Northern Blvd,"{'latitude': 40.757876, 'longitude': -73.8614417}",9,3.0,11368
+TKt0xl8OKHl4uoQUVl6inA,Fern's White Diamond,1208 E Grand St,"{'latitude': 40.666453, 'longitude': -74.21435}",8,5.0,07201
+LNVu-bQA_ASIcWJlClgz-Q,The Lexington Social,1634 Lexington Ave,"{'latitude': 40.79057, 'longitude': -73.94768}",189,4.0,10029
+uAS5ASsS9CjoMLGRYWGvAg,Puerto Plata Restaurant,14917 Jamaica Ave,"{'latitude': 40.702244, 'longitude': -73.805026}",37,4.0,11435
+ZzdR0xWulG2my5MIOREuUQ,Chicken Festival,196-17 Northern Blvd,"{'latitude': 40.7579644, 'longitude': -73.7849278}",101,3.5,11358
+Ik1gSo_Zvhi1Zb06-5qaAw,La Estrella Restaurant,2104 Grand Concourse,"{'latitude': 40.854306, 'longitude': -73.901671}",31,3.5,10457
+jsf8rJ5eJ3yfq3LBs9wPHg,Chris One Flavor,115-15 Liberty Ave,"{'latitude': 40.686, 'longitude': -73.82725}",14,3.5,11419
+0WlguR4Fr9PVYAvmVe7FEw,Mi Bella Dama,296 Knickerbocker Ave,"{'latitude': 40.7016220092773, 'longitude': -73.9237899780273}",15,3.0,11237
+xupocrt8TXyq74cYXGrNrw,La Costena Market,201 Essex St,"{'latitude': 40.87999, 'longitude': -74.05314}",31,4.5,07601
+4C9uO4dRUFW-QPLDfIqibA,Montazo,216 Wyckoff Ave,"{'latitude': 40.7012786865234, 'longitude': -73.9144515991211}",22,3.5,11237
+4Rn6TTTqJdLTtFRVKxrnvQ,Mr Pan,1173 Dickinson St,"{'latitude': 40.66321, 'longitude': -74.21415}",16,4.5,07201
+zhOMKlwhsDLfj05PFOGcBA,San Francisco Restaurant 2,2166 Amsterdam Ave,"{'latitude': 40.83952, 'longitude': -73.93758}",6,3.5,10032
+a9u5bv3PvRLfsIcELLiYIA,El Nuevo Valle 3,268 E 167th St,"{'latitude': 40.8332387, 'longitude': -73.9143362}",15,3.5,10456
+7ZEMUdMiBNDsCuSxa8JQRQ,Youndy's Hispanic Sweets & Kitchen,93 Main St,"{'latitude': 41.00302, 'longitude': -74.3305}",7,4.5,07403
+nQEqgW-_wlqVc94EvrKooA,American Latin Cuisine,522 Nostrand Ave,"{'latitude': 40.68095, 'longitude': -73.94984}",25,3.0,11216
+pvCPhxAiIAD5pIoWx_wAxw,El Malecon,5592 Broadway,"{'latitude': 40.87924, 'longitude': -73.904219}",179,3.0,10463
+IwBIG4A9ofK3S6FJn3FWnw,Banana King,206 Rte 46 East,"{'latitude': 40.9009819030762, 'longitude': -74.1239700317383}",27,3.5,07407
+Md1_AC6uaezmpHGQFc4PSg,MiLina Cuisine,2909 Washington Rd,"{'latitude': 40.4671016477467, 'longitude': -74.3114093439026}",74,4.5,08859
+E43NCktpjiTST_cf4O9Sbg,Tu Sabor Latino,3864 Broadway,"{'latitude': 40.83665, 'longitude': -73.94267}",27,2.5,10032
+99SdCUxC_mLXp60iJagT_w,Sabor Latino Restaurant,4120 White Plains Rd,"{'latitude': 40.8910993268394, 'longitude': -73.8586229460327}",17,2.0,10466
+hmQrfK0Aem0BWhXeZoKuKA,Parilla Latina,2501 Webster Ave,"{'latitude': 40.8611334, 'longitude': -73.8921579}",33,2.0,10458
+2IHGMQVQ7zmb89WyiiH1AQ,Zengo,622 3rd Ave,"{'latitude': 40.749757387679, 'longitude': -73.975456614573}",1032,3.5,10017
+tmbW6_dJs5-UXhvROO093Q,Casa d'Paco,73 Warwick St,"{'latitude': 40.72529, 'longitude': -74.16309}",697,4.5,07105
+Lgho2TGipWfn3iebFXstEg,El Tango Argentina Grill,35 Moonachie Rd,"{'latitude': 40.84235, 'longitude': -74.04442}",284,4.5,07074
+WQIIU5GEQorUVzC4RiV-Tg,Con Sabor Latino,3652 Bailey Ave,"{'latitude': 40.88382, 'longitude': -73.89796}",7,2.5,10463
+Uq2rNMzfPkJa-2nxZSvwDg,Albert's Mofongo,4762 Broadway,"{'latitude': 40.8653997269059, 'longitude': -73.9269116141556}",193,2.5,10034
+3lZtog5ddFhIRH85iwvC0w,El Primo Restaurant,216 Central Ave,"{'latitude': 40.88835, 'longitude': -74.04998}",29,4.0,07601
+UlIcGp9_m5ynMxGCnDKjWA,Las Margaritas,83-22 37th Ave,"{'latitude': 40.7497311, 'longitude': -73.8830557}",151,3.0,11372
+pBgnAbZQSsvv_HJGR1ydRQ,Latin Fusion Restaurant,789 Allerton Ave,"{'latitude': 40.86566, 'longitude': -73.86396}",16,3.0,10467
+kH51xk_ww8YDQyf7-86UlQ,Latin Soul,180 Elmora Ave,"{'latitude': 40.6635181, 'longitude': -74.2339198}",14,4.5,07202
+--ZEJucmNxRxdZ0T-YkR3w,Lechonera Pollo Sabroso,850 Gerard Ave,"{'latitude': 40.82694, 'longitude': -73.92513}",6,2.5,10451
+46TtO4w6wzovwA7uA7yRCw,Garcia's Restaurant,800 Kennedy Blvd,"{'latitude': 40.75927, 'longitude': -74.04414}",108,4.0,07087
+oMg7GX3V1-GPqBbRZQ9MEA,Angie's Café & Bakery,275 Amboy Ave,"{'latitude': 40.5376122011973, 'longitude': -74.3600023820753}",69,4.5,08840
+edvR9-uj3ua94b4GzMF9Uw,El Bohio Tropical Square Restaurant,20 Westchester Sq,"{'latitude': 40.8406729235789, 'longitude': -73.8435504889849}",44,3.5,10461
+ZA42Ilp-FfR03xjJP8EN0Q,Jungle Restaurant,9 W Grand St,"{'latitude': 40.9252054302003, 'longitude': -73.8365866940001}",43,3.5,10552
+EyJEdUhEB5svqb0CdgModQ,Rankin St. Deli,48 Rankin St,"{'latitude': 40.65121, 'longitude': -74.19975}",2,5.0,07206
+DAVRV_GBsYXJXLCT2GZYVw,El Gran Valle IV Restaurant,1944 Amsterdam Ave,"{'latitude': 40.8325359819557, 'longitude': -73.9422886944436}",7,3.5,10032
+MdD_PgW2A4XP1WMkHbOWng,New Victory,4803 5th Ave,"{'latitude': 40.6459807, 'longitude': -74.0091191}",35,4.0,11371
+fzbaXJbMtQbdmjB3IPwr1A,Gourmet Express Market,1020 Goffle Rd,"{'latitude': 40.9675026, 'longitude': -74.1550369}",26,4.0,07506
+o4IZcn3XBf6QWIG0tgKyfg,Latin Bistro,25 Summit Ave,"{'latitude': 40.71459, 'longitude': -74.35651}",38,4.5,07901
+h6rQztpyqRy-Hh4YmnhooQ,Noches de Colombia,466 Boonton Tpke,"{'latitude': 40.91453, 'longitude': -74.27312}",111,3.5,07035
+GYeW4-Y72NckVybC0t_IrA,El Fogon De Bayacane Restaurant,80 Gramatan Ave,"{'latitude': 40.9136157088178, 'longitude': -73.8373797257242}",4,4.5,10550
+UTYUgnQpwoMN1n9X7QVejg,Brisas Del Mar Corp,9902 Rockaway Beach Blvd,"{'latitude': 40.584317, 'longitude': -73.820575}",39,3.5,11694
+0RDtHAGsK0NVlcMug5cxEQ,Gloria's Bar & Grill,36 Broad St,"{'latitude': 40.79466, 'longitude': -74.1978199}",23,3.5,07003
+jBLK7s5Q1NR_uwWaH5amkQ,The Empanada Shop,251 B Valley Blvd,"{'latitude': 40.8509392, 'longitude': -74.0851678}",76,4.0,07075
+1d2gACXnafa5mnsMT8qE1Q,Mi Tierrita Restaurant,31 N Franklin St,"{'latitude': 40.7065733, 'longitude': -73.6266548}",158,4.0,11550
+pqmbD80PhsAo_2IGRVvPEA,La Cantera Restaurant,301 Morris Ave,"{'latitude': 40.669246673584, 'longitude': -74.2179183959961}",36,3.5,07208
+e63iW8Grbq2O4doTqKSJkw,Dava,1020 Stuyvesant Ave,"{'latitude': 40.6969063, 'longitude': -74.2690591351248}",46,4.0,07083
+nNbR_qaNzvNDI_o1axp0jg,Estrella Del Mar,552 Seneca Ave,"{'latitude': 40.7047653198242, 'longitude': -73.9114456176758}",62,2.5,11385
+yBNQrU_IaAPeGa5cLGVLjw,Social 59 Eatery & Lounge,512 59th St,"{'latitude': 40.7886000067463, 'longitude': -74.0171335637569}",110,4.0,07093
+ZbhTjTthYjkWhnAVUUNJ5A,Spanish Tavern of Mountainside,1239 US Hwy 22,"{'latitude': 40.676433, 'longitude': -74.347264}",326,4.0,07092
+lpW6HQ7aMRYY2q3Mux1Chg,Rosy’s Tex Mex Burrito,96 Main St,"{'latitude': 40.554197, 'longitude': -74.280608}",9,4.0,07095
+Tr70e49_OxAnTJedn9pvPA,Randall Restaurant,1328 Randall Ave,"{'latitude': 40.81227, 'longitude': -73.88446}",19,3.0,10474
+HsR3CeK2Ca8b_Q8Rn8spnA,Casa Clema Restaurant,1731 University Ave,"{'latitude': 40.8498016, 'longitude': -73.9168181}",2,4.0,10453
+tSOq-h7NATUTwYQlCzw6rw,New Genao Restaurant,162 Throop Ave,"{'latitude': 40.69954, 'longitude': -73.9445099}",4,3.5,11206
+43fpU0pKds9RA7oMOfi24w,El Rey Restaurant,14713 Hillside Ave,"{'latitude': 40.7060521691447, 'longitude': -73.8091943558197}",126,3.0,11435
+rkKKWPkVn6x2CCDlKrUjXA,Tropilyz,1917 7th Ave,"{'latitude': 40.80287, 'longitude': -73.952309}",5,1.5,10026
+T5c7MXnp8DkZ-bxt-vE9IA,Tulcimex,1197 Bryant Ave,"{'latitude': 40.82894, 'longitude': -73.88912}",15,3.5,10459
+Ub9tAZa00tIOKtOe6UkWlA,Capri Restaurant,903 Columbus Ave,"{'latitude': 40.798018, 'longitude': -73.9637492}",1,1.0,10025
+j6tzj4ZfoEacBfhdnR08VA,Mama's Empanadas,9120 59th Ave,"{'latitude': 40.733956, 'longitude': -73.869312}",219,3.5,11373
+LePUJacBiAfq7qiASx0diA,Q'Kachapa,5625 Broadway,"{'latitude': 40.8794354, 'longitude': -73.9044026}",51,2.5,10463
+BeI7T5rgrBSGDF390IMzpA,Aris Pollos A La Brasa,691 Knickerbocker Ave,"{'latitude': 40.69464, 'longitude': -73.9108}",29,4.0,11221
+lvdADyTLBQqXcNdYY3w6-w,The Empanada Mami's,221 Palisade Ave,"{'latitude': 40.8718559225691, 'longitude': -74.1093371808529}",14,4.5,07026
+zxno00eO32LJVpSOiGeCiA,Mi Casa Restaurant,198 Washington Pl,"{'latitude': 40.8615818, 'longitude': -74.1246582}",3,3.5,07055
+expqIR9abzV3sPLT9etBWg,Stanley Coffee Shop,675 Stanley Ave,"{'latitude': 40.659516, 'longitude': -73.8839969}",6,1.5,11207
+N_iUh4REefckkA0zLm9TeA,Plancha Tapas and Wine Bar,931 Franklin Ave,"{'latitude': 40.7287204, 'longitude': -73.6350924}",433,4.5,11530
+u9xVzV1OZC5pwtUgaHLM-A,El Kallejon,209 E 117th St,"{'latitude': 40.798538, 'longitude': -73.938805}",302,4.5,10035
+v4OgAJDdpf0Nzk3J2vL92w,Dominicana Pollo Sabroso,105 E Mount Eden Ave,"{'latitude': 40.8436455577612, 'longitude': -73.9127855747938}",12,2.5,10452
+UU8eOmDIwqx99F1gGbM5Ng,The Empanada Shop,30 Park Ave,"{'latitude': 40.828299, 'longitude': -74.102271}",24,3.5,07070
+SNcKbQXICZxiKgHkB0BK0g,Hollywood Chicken & International Foods,216 Westchester Ave,"{'latitude': 41.00239, 'longitude': -73.66745}",10,3.5,10573
+f8TZ_ctcSwxwW8S69YKnwg,Il Bambino,34-08 31st Ave,"{'latitude': 40.76281, 'longitude': -73.92089}",1232,4.5,11106
+Q8WN9MAahG19j6OHJFkV3w,La Rola Restaurant,400 E 198th St,"{'latitude': 40.8660480380058, 'longitude': -73.8860902190208}",5,2.5,10458
+Nny4HpYhiPZjTyoPN_1n_A,Bahama Breeze,1600 Bergen Town Ctr,"{'latitude': 40.9166209727355, 'longitude': -74.0586346280806}",467,3.5,07652
+czRZK1tbKo8DUz8P375C6w,The Empanada Spot,61-09 Springfield Blvd,"{'latitude': 40.7484725, 'longitude': -73.756179}",126,3.5,11364
+KTPJBB_Q1ETpb0_5ZuVSUg,Cumbia Cafe,263 Kearny Ave,"{'latitude': 40.760258, 'longitude': -74.15155}",8,2.5,07032
+ntDt7rgOCCKMHlx0MkL39A,Dominican,178 N Main St,"{'latitude': 40.6628036499023, 'longitude': -73.5856781005859}",6,4.5,11520
+gftqM8u8byzeM0yJnbU41w,Coconut Latin Caribbean Grill,681 Montgomery St,"{'latitude': 40.72422, 'longitude': -74.0662}",60,3.0,07306
+heqpijAIUYjn03AqHXNjQQ,La Gran Sabana,6315 Park Ave,"{'latitude': 40.7887383, 'longitude': -74.0065228}",25,4.0,07093
+Tr2_CcFo_fjg02dJ9Z0RgQ,El Valle Restaurant Bar,3452 Boston Rd,"{'latitude': 40.87621, 'longitude': -73.84844}",34,2.0,10469
+H14AmGO9IrSn1hWIMbJXLg,Juany's Cafe & Grill,12-56 River Rd,"{'latitude': 40.9330197479507, 'longitude': -74.1327762988338}",292,4.5,07410
+rFh7c24ejXYoR1RDYip2_A,Sabores Restaurant,582 Morris Ave,"{'latitude': 40.8181062340736, 'longitude': -73.9223738014698}",10,2.0,10451
+QICoC0ISDxEhFfn-iMiKYQ,Parrilla Latina Steakhouse,614 Melrose Ave,"{'latitude': 40.817657, 'longitude': -73.916672}",27,2.5,10455
+1Y3zvfXJCmYCMdws7Hdg8Q,Domingos Bakery & Restaurant,292 Kearny Ave,"{'latitude': 40.76098, 'longitude': -74.15034}",94,4.5,07032
+5FiYDdTkHyqGABaNDaxddg,La Reina Del Sabor,184 Main St,"{'latitude': 40.883951, 'longitude': -74.042394}",24,3.5,07601
+R2Tmd1sKuvoyNC6CPw2u6g,El Valle Restaurant,1267 Jerome Ave,"{'latitude': 40.8374329, 'longitude': -73.9206161}",12,3.0,10452
+t8w3Ypq7IfZFdjvSLVsImg,Pollos Cuzco Restaurant,98-102 Queens Blvd,"{'latitude': 40.727145, 'longitude': -73.854865}",121,3.0,11374
+Nwl6IsOanSL78thKM-Z-sw,Tropical Juice Bar,198 Myrtle Ave,"{'latitude': 40.8686156, 'longitude': -74.1346694}",33,4.0,07055
+WXZwpRoSDom4o49v09qRAg,New San Francisco Restaurant,59 Audubon Ave,"{'latitude': 40.84056, 'longitude': -73.93796}",29,4.0,10032
+n3sW0yo7Gr0ZXReSFKsisA,Jorge's Restaurant,689 Seneca Ave,"{'latitude': 40.703044, 'longitude': -73.907638}",79,3.5,11385
+8dlS098gFHDyH8kj9qRTuQ,El Nuevo Bohio Lechonera,791 E Tremont Ave,"{'latitude': 40.844086, 'longitude': -73.887903}",96,3.5,10460
+P24zWPRDFCWo-IE-SvdIdQ,Cibao Invita,749 Broadway,"{'latitude': 40.67282, 'longitude': -74.11116}",117,3.0,07002
+Qg-wXd08TWnTsn0uTq3MsA,Dia Y Noche Restaurant,640 Mclean Ave,"{'latitude': 40.9090901458505, 'longitude': -73.8788563013077}",138,3.0,10705
+ghVoFOA7yqwfFufV2sswaA,Pollos Mario,63 Main St,"{'latitude': 40.880185, 'longitude': -74.0442706}",161,3.5,07601
+f0SdUTgMylgqxDZSXPeMkw,Melany Restaurant,785 Flatbush Ave,"{'latitude': 40.65345, 'longitude': -73.95927}",47,2.5,11226
+vEVK_riOmFXCgsVDujq7SQ,The Empanada Times,192 Main St,"{'latitude': 40.92295, 'longitude': -74.30567}",30,4.0,07035
+iEvK-vJz9S9DIy25SnUT4g,El Sabor Latino Restaurant,620 4th Ave,"{'latitude': 40.6647638, 'longitude': -73.9938216}",13,3.5,11215
+9VrSzmouKULrGH3gbqNd3Q,Pizzarra's Restaurant & Pizzeria,4000 Bergenline Ave,"{'latitude': 40.77637, 'longitude': -74.02571}",46,4.5,07087
+dArf1RODSnro5NG4VhAz4w,El Machetico Colombiano,153 S Main St,"{'latitude': 40.8685190778269, 'longitude': -74.0900524055094}",14,3.0,07644
+GYERPYvYkxmQzVykhnsVjw,Gusto & Sabor,2022 Morris Ave,"{'latitude': 40.696617, 'longitude': -74.271042}",36,4.0,07083
+H1_BQgMkfYnES8zvpyi8ZA,El Merenguito Restaurant,313 Washington Ave,"{'latitude': 40.79158, 'longitude': -74.15144}",33,2.5,07109
+lfJ8sFKvwOiGBvQLgy32-A,Xunta - Tapas España,392 Bloomfield Ave,"{'latitude': 40.840829, 'longitude': -74.278701}",163,4.0,07006
+7mhQbix2kRfds-5d-HrG9Q,Salsa Cafe Restaurant,169 Palisade Ave,"{'latitude': 40.87004, 'longitude': -74.10857}",11,2.5,07026
+CInzUl6SEluEB87tbat1bg,Downtown Caribbean Eats,4 Branford Pl,"{'latitude': 40.7348284053128, 'longitude': -74.1732726618648}",29,4.0,07102
+w8RvA4t6_Mt3WxyEjcslew,Punto Fijo Restaurant II,30 Howe Ave,"{'latitude': 40.86132, 'longitude': -74.12816}",1,1.0,07055
+pCATo1CMq7MGQFx5pddDxg,Mi Sabor Cafe,920 Broadway,"{'latitude': 40.6972958094714, 'longitude': -73.9361604085802}",8,2.5,11206
+NtCmMjh2wWKeS4qJAUFmPA,Doña Antonia Restaurant,152 71st St,"{'latitude': 40.79432, 'longitude': -74.00474}",22,3.5,07093
+xfO0gdc8WV5h10NUemubRg,Mi Sueno Cafe,507 Market St,"{'latitude': 40.8975803256308, 'longitude': -74.1018776228872}",13,3.5,07663
+MGgxVLo-OZl3H8jjroR4aw,Kaylen Deli,310 Palisade Ave,"{'latitude': 40.876354, 'longitude': -74.025642}",4,3.0,07603
+na6Xd6dSmKNVC4lsPf1Y9w,Johnny Tequila's,586 Raritan Rd,"{'latitude': 40.6446256488562, 'longitude': -74.2735413461924}",507,4.0,07203
+7vzzTEhVEH-PQ3EmzSnaBQ,Mi Pequeno Mexico Restaurante Y Taqueria,128 Elmora Ave,"{'latitude': 40.66136, 'longitude': -74.23358}",12,4.5,07202
+N3h_AvXupuxFHDXhKWwxUw,Joe's Place,1841 Westchester Ave,"{'latitude': 40.83266, 'longitude': -73.86442}",70,3.0,10472
+e9-945WlnSo5dqQoMmboKA,Taino's Kitchen,849 Mt Prospect Ave,"{'latitude': 40.781129, 'longitude': -74.162429}",51,4.0,07104
+gB2tA43tVKZTAI0apVwQcw,Dominican Restaurant,1019 Front St,"{'latitude': 40.70977, 'longitude': -73.5926}",143,3.5,11553
+NcETaFf_igrR6TdgFbZ0HQ,Alex's Pizza & Deli,70-20 35th Ave,"{'latitude': 40.7506369516965, 'longitude': -73.8949773666208}",5,3.0,11372
+y7Mut2uvQ_5-3w-TYc3yyw,Tropical Spanish Restaurant,3771 Broadway,"{'latitude': 40.8338876, 'longitude': -73.9452933}",31,3.5,10032
+nLKl-ury6mN-6w_P2EoWOw,Caridad Restaurant,2230 Grand Concourse,"{'latitude': 40.85604, 'longitude': -73.9004}",12,2.5,10457
+aZONncGgZrLtISLq7ili7g,Patrona Fusion Restaurant,759 Farragut Pl,"{'latitude': 40.78948, 'longitude': -74.00121}",51,2.5,07093
+6e08TRfc4WCKA23ZcS20jg,New Ranchito,924 Amsterdam Ave,"{'latitude': 40.8000173, 'longitude': -73.9662359}",13,2.0,10025
+glfVtdyy2VxuEfJdqyyM6A,Solimar Grill Restaurant,1800 Archer St,"{'latitude': 40.83744, 'longitude': -73.86698}",3,2.0,10460
+v4y5LHllg-8_YJoInaORHw,Noches de Colombia,1309 Paterson Plank Rd,"{'latitude': 40.7907591853292, 'longitude': -74.0581170469522}",136,3.0,07094
+jxzLz41dK6NQRz-QYYjLgQ,Paladar Restaurant,2053 Pitkin Ave,"{'latitude': 40.6717612, 'longitude': -73.8967452}",1,1.0,11207
+HGZYuZtWbaxVHdOfcUKwBA,Saveur Creole,131 Grove St,"{'latitude': 40.8159141540527, 'longitude': -74.2067642211914}",240,4.0,07042
+Edufnep6JC9FC1TTfDCD3g,Sabor Peruano,1576 Irving St,"{'latitude': 40.6100584, 'longitude': -74.2769764}",171,4.5,07065
+i1ueG-jyd-qGhy7lsGV-kg,El Sazon De Olga,1017 Castle Hill Ave,"{'latitude': 40.828172, 'longitude': -73.850533}",5,4.0,10472
+YsdwbA5QlOjFJGivM-eUMg,Poppy's Deli,420 E Sandford Blvd,"{'latitude': 40.9011984701632, 'longitude': -73.8203002095093}",33,3.5,10550
+DEvNXiPDVR6_LMmN3Rl9dQ,Que Rico Pollo,46 St Nicholas Ave,"{'latitude': 40.8001317, 'longitude': -73.9524593}",26,3.5,10026
+tuXpt05dNdhiljAW2IYwoA,Latitude Zero,269 Broadway,"{'latitude': 40.6561499, 'longitude': -74.12525}",31,3.5,07002
+q90p2q_VdTdL69Xr1nxg5g,Vicky's Local Deli,284 Broadway,"{'latitude': 40.6508054785145, 'longitude': -73.6819934333333}",23,5.0,11563
+UWGoTCMBbsqfN1raHZMrag,El Perro,80-26 Northern Blvd,"{'latitude': 40.7552203, 'longitude': -73.8869745}",16,3.5,11372
+b0N2qRYjVKAdffMsTugoBA,La Lechonera Criolla,1709 Webster Ave,"{'latitude': 40.84341, 'longitude': -73.90363}",17,3.5,10457
+5dSnCmShmPGohJ6a2IyexQ,Wasi Food,17 Franklin St,"{'latitude': 40.7835400867885, 'longitude': -74.1833021558184}",18,4.0,07003
+TMVTBl9tCnR-y0FJvuszXw,John's Fried Chicken,613 Anderson Ave,"{'latitude': 40.8258746367056, 'longitude': -73.9877139208547}",53,3.5,07010
+ffo50bi0mckKCJ20peLwxg,Noches de Colombia,25 Lake Ave,"{'latitude': 40.8758834570172, 'longitude': -74.12308799903}",267,3.5,07011
+7TTaKaS1jSAXxWMQtWLESw,Michelle Restaurant,125 Avenue D,"{'latitude': 40.72414, 'longitude': -73.97588}",7,1.5,10009
+wcxXuWG97E7y8XKC1cx6iw,Zoni Cafe,41 W 33rd St,"{'latitude': 40.7486829654735, 'longitude': -73.9870824816185}",23,2.0,10001
+eiZZVLy1-WRDSiKS0JTWJQ,Miti Miti Latin Street Food,10 Sloan St,"{'latitude': 40.74587, 'longitude': -74.25983}",102,4.0,07079
+LzM48jyEP_o3_HvF1nVBWg,Marthitas Kitchen,754 New Lots Ave,"{'latitude': 40.666138, 'longitude': -73.882598}",2,3.0,11207
+pvO907YovWI6Zwpvj3InUQ,Toma-Tis Restaurant & Grill,796 Meacham Ave,"{'latitude': 40.6866768887558, 'longitude': -73.6924515586017}",59,4.5,11003
+IeSA8mYSVkMzTWGqJlHljg,Uncle Ralph's Restaurant,2143 Woodbridge Av,"{'latitude': 40.5010871887207, 'longitude': -74.3959197998047}",46,4.5,08817
+CaMYHzOkfujF2I_1sUhYOA,El Dorado,2236 Hylan Blvd,"{'latitude': 40.575843, 'longitude': -74.103743}",24,3.0,10306
+wdLvwNIbafdY9gswF9-j2w,Lillys Cafe,53 E 167th St,"{'latitude': 40.8356628, 'longitude': -73.920578}",19,2.5,10452
+_6FYombsxJYOUOsQQ24Nkg,El Nuevo Sabor,4032 10th Ave,"{'latitude': 40.86944, 'longitude': -73.91552}",11,2.5,10034
+2kM9VJDbSLJXw7x5iEBiGQ,El Sabor Dominicano,81 Guy Lombardo Ave,"{'latitude': 40.65408, 'longitude': -73.58432}",58,3.5,11520
+SpqijeGH5dOgNKEtJE_r-A,Tropical Juice Bar,5406 Bergenline Ave,"{'latitude': 40.7852, 'longitude': -74.01869}",14,4.5,07093
+GOTYjqwgcanhGD68VAXCJw,My Apartment Cafe Peruvian Restaurant,301 Ave C,"{'latitude': 40.65759, 'longitude': -74.12735}",57,4.0,07002
+H2-tOtvbywDs1-HeNUwwCQ,Limin's Cafe Caribe,5 Winans St,"{'latitude': 40.7621403, 'longitude': -74.2118027}",94,3.5,07017
+P6poOC-h0dynG7adOYNeEQ,Noches De Colombia Restaurant & Bar,382 Main St,"{'latitude': 40.89052, 'longitude': -74.039384}",85,3.0,07601
+zjkTDH-OFl5xtnTcE4WuDg,Oscar's Kitchen,2618 Jerome Ave,"{'latitude': 40.8667793273926, 'longitude': -73.8976364135742}",23,2.5,10468
+BJfREZzINv_q3jtezHfwlw,Cachapa Loka,578 Main Ave,"{'latitude': 40.8588066, 'longitude': -74.1235886}",21,4.0,07055
+x3ntAmAvy3NsslFbf8h1rA,Empanada Kingdom,1970 Victory Blvd,"{'latitude': 40.612303, 'longitude': -74.129838}",14,4.5,10314
+t1-hDZZBfZu0dEDjLaGWhQ,Caridad Express Restaurant,554 W 181st St,"{'latitude': 40.8487396, 'longitude': -73.9330673}",6,1.5,10033
+PYJ9FJ92oGQzg1FTg6KSyQ,Las Tias Cafe Bakery,74-01 Metropolitan Ave,"{'latitude': 40.7127687327052, 'longitude': -73.8778613151087}",22,3.5,11379
+qBrI80sC_9w_8M_zKrNagw,Higuey Cafe,1204 Hempstead Tpke,"{'latitude': 40.7085247, 'longitude': -73.6847204}",46,4.0,11010
+ml-cqR3wDUKu1gcZwhiwIw,Mangu Grill,15-03 College Point Blvd,"{'latitude': 40.7839968, 'longitude': -73.8457999}",66,2.5,11356
+peSMd9G9VipawBe5j71iSw,Zanchos,504 Frank E Rodgers Blvd N,"{'latitude': 40.7502, 'longitude': -74.15741}",10,2.5,07029
+0na0ZydaBT5xibxXORYMSA,Steven Restaurant,2233 Boston Rd,"{'latitude': 40.8583928, 'longitude': -73.8678703}",17,2.5,10467
+JJJ86jaxr9pz6FAdYyTnQA,Amby's Restaurant,46 Ralph Ave,"{'latitude': 40.6887245178223, 'longitude': -73.9240188598633}",8,3.0,11221
+vy1ErZkPYY5kJOkceWkyqg,Tisch Cafeteria,550 1st Ave,"{'latitude': 40.742406, 'longitude': -73.973444}",33,3.5,10016
+KgWotg5WojwKfx3yimSwZA,Manny's Restaurant BBQ & Deli,100 Thomas St,"{'latitude': 40.7231593877077, 'longitude': -74.1771628707647}",19,3.5,07114
+IB9zQa_3lG0wW6mJF_bOdA,Tego Restaurant,4367 Webster Ave,"{'latitude': 40.9008188151409, 'longitude': -73.8618304500716}",6,2.0,10470
+IWYjJnnKWoKsEEe7-991-A,Noches De Colombia,4329 Bergenline Ave,"{'latitude': 40.77893, 'longitude': -74.02422}",121,3.5,07087
+6iTdfEScJaM0liULzsKqvg,La Parada Restaurant,855 4th Ave,"{'latitude': 40.65678, 'longitude': -74.00156}",30,3.0,11232
+v_hh6YvT_CW2xGLb0mwQjQ,Cocina Latina,650 Westchester Ave,"{'latitude': 40.8158886023737, 'longitude': -73.9085066271819}",3,2.5,10455
+kmGTbM0LjV9SzbdaetqWDA,Don Pepe,844 McCarter Hwy,"{'latitude': 40.7374539, 'longitude': -74.1652791}",303,3.0,07102
+HVZ4E2yL-k37oC4ayiubbQ,Sabrosura 2,1808 Westchester Ave,"{'latitude': 40.8317697392748, 'longitude': -73.86583769469}",126,4.0,10472
+XzM4Wh42H2ZMeAkz6gXo0g,Caridad & Louie's Restaurant,241 North Ave,"{'latitude': 40.9108550101519, 'longitude': -73.781565874815}",45,2.5,10801
+ALxHQU8HrSjAvEDAGGDgVQ,Castillo Restaurant,68 Market St,"{'latitude': 40.863636, 'longitude': -74.116184}",5,3.0,07055
+JaJsQ0tpUd7W2zqNnmLMXQ,El Senorio II,580 Mcbride Ave,"{'latitude': 40.9048347473145, 'longitude': -74.1980285644531}",31,3.5,07424
+16GZscQwF1WrLffsMaIzpg,Julia Restaurant,3914 39th St,"{'latitude': 40.6456599587381, 'longitude': -73.9946348592639}",2,2.0,11219
+CkcXX5FrIIDBBMmU78-h0A,Tropical Juice Bar,160 W Broadway,"{'latitude': 40.92275, 'longitude': -74.1774499}",32,3.5,07522
+bQjzuHVU8pR0fXF_wFoBeQ,El Rey de La Arepa,905 Main St,"{'latitude': 40.89658, 'longitude': -74.161092}",4,4.0,07503
+e8jcKu9jsYrCRABbhvdwVg,Don Alex,10626 Corona Ave,"{'latitude': 40.7436569, 'longitude': -73.8565572}",60,2.5,11368
+Ngnbo2YtoGGIRrdayNF6Mg,Malecon Restaurant,390 S Broadway,"{'latitude': 40.9198879, 'longitude': -73.8960504}",78,2.0,10705
+QklmQ5nRqT_bMWfaDU5Tqg,Banana king,895 Main Ave,"{'latitude': 40.86776, 'longitude': -74.13285}",2,2.5,07055
+_kxXp3kBxNxKRbsSB9qB1g,Sabor Dominicano,4900 Bergenline Ave,"{'latitude': 40.7822723, 'longitude': -74.0211411}",17,2.5,07087
+F6JMCR2ehPLiwMmZwdzXNQ,Gustoso Restaurant,3325 Fulton St,"{'latitude': 40.6836163393712, 'longitude': -73.8729165494442}",24,3.5,11208
+Vbtj1T-ygpQoVY1IaqJdkw,Fornos of Spain,47 Ferry St,"{'latitude': 40.7323, 'longitude': -74.16329}",732,4.0,07105
+cn4pmndnUTXEJ5N-4hTKOw,The Rock,91-17 Liberty Ave,"{'latitude': 40.6803106, 'longitude': -73.8471142}",21,3.0,11417
+iI81iBoJPsIT0w4TW3QCxw,Mojito Cafe & Lounge,109 Main St,"{'latitude': 40.8304960280657, 'longitude': -73.6899442970753}",44,3.0,11050
+HOA5esBzkJ_kPyjdxg_fFw,Sayola Restaurant,50 Prospect Ter,"{'latitude': 40.93116, 'longitude': -73.96111}",126,4.0,07670
+GBg78_iliDkxe5HYPipNXg,Royal Coach Diner,3260 Boston Rd,"{'latitude': 40.8724886, 'longitude': -73.8542747}",200,3.0,10469
+Wn30OIMnstEGVQ-efY1TYQ,The Empanada Guy Truck,60 County Rd 516,"{'latitude': 40.41023, 'longitude': -74.354783}",45,3.5,08857
+fb1f50Ogucihr-Cx_T1q5A,Segovia Restaurant,150 Moonachie Rd,"{'latitude': 40.8400085319357, 'longitude': -74.0485996248338}",394,4.0,07074
+pkDbMm6ObK6CpnzmnNsMqQ,El Sabor Latino New Rochelle,391 Main St,"{'latitude': 40.9115026327, 'longitude': -73.7778233446}",2,1.0,10801
+q0UlCXljc9kA3XyJ_FTJtQ,Garibaldi Peru Mex,107 US Hwy 46 E,"{'latitude': 40.8579857, 'longitude': -74.3520475}",167,4.5,07054
+DwJ83Nn_l9lfUoL1xG2D1g,Lena Dominican Restaurant,1783 Dutch Broadway,"{'latitude': 40.6891812, 'longitude': -73.7078498}",60,2.5,11003
+fY5YbHmYJ-tzk7pLEQk9bA,Brisas Del Caribe,2417 Bergenline Ave,"{'latitude': 40.768219, 'longitude': -74.0324173}",3,4.0,07087
+jmLuDeuW89jC1tERmq2bhg,Casa Vasca,141 Elm St,"{'latitude': 40.72847, 'longitude': -74.16493}",230,4.0,07105
+5JtSEryw2Yt8RT1Rm19ryQ,Taste & Sabor,318 W 231st St,"{'latitude': 40.88099, 'longitude': -73.90896}",47,4.0,10463
+1LVEFrZ0DuE7cvEkLjfWNA,Tropical Juice Bar,1702 Bergenline Ave,"{'latitude': 40.7630801354684, 'longitude': -74.0353807709344}",21,3.5,07087
+yyo7owc4WMIdz74uSdRh4Q,Elsa La Reina del Chicharron,1515 Teaneck Rd,"{'latitude': 40.9027290344238, 'longitude': -73.9985733032227}",127,2.5,07666
+1NL-Uk5v0PYtLNulhO1YRw,El Rinconcito Mix,774 St Johns Pl,"{'latitude': 40.67152, 'longitude': -73.95251}",24,4.5,11216
+jIeciy3GeGMQ-kVXBcXyMg,My Coral Restaurant,5401 4th Ave,"{'latitude': 40.643884, 'longitude': -74.014721}",4,2.5,11220
+kjndYUa-cc4tdYV5Gw_SBQ,Caribe Restaurant,1562 St Nicholas Ave,"{'latitude': 40.8537254333496, 'longitude': -73.930046081543}",5,2.0,10040
+ayGjKlWg8yc69JP_an1_mA,El Nuevo Valle 2,855 E 180th St,"{'latitude': 40.84567, 'longitude': -73.88351}",7,1.5,10460
+ZzPNo8Usa25UlCPw43T3pA,El Castillo Restaurant & Grill,31 South St,"{'latitude': 40.9080522, 'longitude': -73.8499009}",16,2.5,10550
+am1ba1kfJ-Sn_G2cY6c8KA,Hangar Astoria,28-43 Steinway St,"{'latitude': 40.76427, 'longitude': -73.91428}",77,3.5,11103
+k7QzJ6th2m2Uyr7xPOBZfw,Chili Dog Restaurant,297 North Ave,"{'latitude': 40.91284, 'longitude': -73.783159}",34,4.0,10801
+QpgpAEdISi3PjYdgAFMcUw,Empanada Lady,20 Grove Ave,"{'latitude': 40.8338625998484, 'longitude': -74.2480391601788}",63,4.0,07044
+D1o37uAB2_5If3DKTR_NnQ,Liberato Restaurant,10 W Burnside Ave,"{'latitude': 40.853666748772, 'longitude': -73.9083069534393}",57,2.5,10453
+uOKv62ooXVVBR69ZmlWo2A,Willie's Steak House,1832 Westchester Ave,"{'latitude': 40.83214, 'longitude': -73.8649}",45,3.0,10472
+rWYnlG7xBkc1-vYn7fpL5Q,City Tavern,1109 Elizabeth Ave,"{'latitude': 40.66219, 'longitude': -74.2118}",138,3.5,07201
+MX5HVybX1ySSfprDuZoanw,Rincon Latino,39-12 103rd St,"{'latitude': 40.7500686645508, 'longitude': -73.8628768920898}",9,3.0,11368
+1vunbCxqhhbfnZy5wc_DCA,Justine Restaurant,28 E 167th St,"{'latitude': 40.8357772827148, 'longitude': -73.9213333129883}",35,2.5,10452
+6xhfIEV17_Ky0K9ORlGdCQ,Metropolitano,133 17th St,"{'latitude': 40.666164, 'longitude': -73.99485}",7,2.0,11215
+ffavAznpBm6Qr9XCnZKZ3Q,Caridad Restaurant,1436 Williamsbridge Rd,"{'latitude': 40.84315, 'longitude': -73.84466}",64,2.5,10461
+WiY19VZzvsmRwy9v8Y8L_g,El Tipico Dominicano,227 3rd St,"{'latitude': 40.65456, 'longitude': -74.18605}",18,4.0,07206
+xB1A2bFrRPJ7mC3A0FfL1w,La Flor Del Paraiso,1715 Cornelia St,"{'latitude': 40.700428, 'longitude': -73.905639}",25,3.0,11385
+iTj5T_jPYvznd1QTgs7NZw,Nai Tapas,85 2nd Ave,"{'latitude': 40.7267949, 'longitude': -73.9892815}",935,4.5,10003
+0XDlyOlcwMCSxNSM1m2BVw,Que Sabrosura! Restaurant & Bar,48 E 183rd St,"{'latitude': 40.85827, 'longitude': -73.9027}",24,3.0,10453
+_hLxV5bkq975qK97Whbtcg,El Valle Cocina Restaurant,3535 Jerome Ave,"{'latitude': 40.8825874, 'longitude': -73.8815918}",38,2.0,10467
+ey2EAkf_5V1qNgZabMLEpA,El Canton Restaurant,336 South St,"{'latitude': 40.6579244, 'longitude': -74.2086526}",4,4.5,07202
+3VnOYXK4HmVqu65jWxdwJA,Mirador,44 W Kingsbridge Rd,"{'latitude': 40.8678933, 'longitude': -73.8993116}",20,3.0,10468
+jb8N6gYSWq7pocGpWD0tag,Maria Mentiras Bar & Grill,328 32nd St,"{'latitude': 40.7712615, 'longitude': -74.0281575}",109,3.5,07087
+htXZlVEN_Bmn0BMilFxmzw,Spice N Thing,442 Main St,"{'latitude': 40.76418, 'longitude': -74.21438}",19,4.0,07018
+3aRfexDqCVDSl0WKDA_7xw,Banana King,53 Broadway,"{'latitude': 40.85979, 'longitude': -74.12801}",57,3.5,07055
+q4pCVCdmcIYml_AMAfKKyw,Las Delicias Restaurant,21719 Jamaica Ave,"{'latitude': 40.71813, 'longitude': -73.7373}",18,3.0,11428
+m9MIS-512i__FwycfCsIUg,Latino Express,1888 Westchester Ave,"{'latitude': 40.832541, 'longitude': -73.861858}",24,2.0,10472
+1IMxcAIHqVVEUK5lzuNYRA,Merengue Dominican Restaurant,2164 Jericho Tpke,"{'latitude': 40.7384426, 'longitude': -73.6680516}",71,2.5,11040
+a-vT2nxvofnbxNzY3RWJPg,La Flor Del Paraiso Francy Restaurant,80-29 Jamaica Ave,"{'latitude': 40.692455, 'longitude': -73.861359}",11,3.5,11421
+VfDX1ADYK2OGh6XtBNG8bA,Pupuseria Las Americas,7 E Salem St,"{'latitude': 40.885548, 'longitude': -74.0415977}",57,4.0,07601
+lH6eF-VE3d69Z2eDT-BHEg,69 Coffee Shop,5001 69th St,"{'latitude': 40.736729, 'longitude': -73.895592}",14,3.5,11377
+v9BMwe8sEBBZYsJAFOY7Zg,Zefe's,1224 Myrtle Ave,"{'latitude': 40.697511, 'longitude': -73.928985}",51,3.5,11221
+kMT0HP6yKGA3wC9Ag5NzlQ,Carrizal Bar & Grill,1346 Broadway,"{'latitude': 40.689537, 'longitude': -73.922913}",49,2.5,11221
+kNwFgdcQdNkYmUHvj30tOg,Old San Juan Express,260 S Summit Ave,"{'latitude': 40.875833, 'longitude': -74.065}",121,2.5,07601
+m77JIwHI2izkARrQUehKKA,Sandy Restaurant,2261 2nd Ave,"{'latitude': 40.797256, 'longitude': -73.937934}",71,2.5,10035
+PWZRaqS9JB9QqWQgB3Irmg,Mama Elena's,395 21st Ave,"{'latitude': 40.90682, 'longitude': -74.15674}",16,3.5,07513
+e_rSWiJGSbnZU801_92PXw,Jessy's Pastries,3212 Long Beach Rd,"{'latitude': 40.6335437, 'longitude': -73.6408652}",63,4.5,11572
+sMwo18huDJ_KmKoLwcrBUQ,Campo Bello,118 Broad St,"{'latitude': 40.6244698, 'longitude': -74.0791931}",42,3.5,10304
+u01Vd-z0EU8MTwTTt2QaQw,The Empanada Spot,76-17 Roosevelt Ave,"{'latitude': 40.747309, 'longitude': -73.888996}",133,4.0,11372
+zfcspYebofZPoOPZ0wREGg,Jj Peruvian Restaurant,312 Lexington Ave,"{'latitude': 40.8723729, 'longitude': -74.1294326}",2,3.0,07011
+h7a8Ib8ettt7vryb7egsOg,Las Mellas,1452 Westchester Ave,"{'latitude': 40.828066, 'longitude': -73.882205}",3,1.0,10472
+nJM-z0cw93I1trQYfyHBmw,Richie Rich Caribbean Taste,259 W 1st St,"{'latitude': 40.9081263252143, 'longitude': -73.8476886724429}",8,2.0,10550
+a_KqGEF2y0kmE6CyhXysSw,Tropical Juice Bar,144 Passaic St,"{'latitude': 40.8625, 'longitude': -74.11465}",14,4.0,07055
+-pW5tF7cLZqM7BEpxTapkw,Elora's Mexican and Spanish Food,272 Prospect Park W,"{'latitude': 40.6584854125977, 'longitude': -73.9823989868164}",222,3.5,11215
+95mV8V5etxE1iCeAl8lw-A,Locura Marina,6317 Bergenline Ave,"{'latitude': 40.79235, 'longitude': -74.01405}",54,3.5,07093
+v6Vs_7QPUi6RM3AHw5uVzA,Due 360,50 Maple St,"{'latitude': 40.7172001, 'longitude': -74.3588109}",158,4.0,07901
+rnrEE7_UAeCKyVcQ_hO7OQ,El Tango Argentina Grill - Englewood,22 N Van Brunt St,"{'latitude': 40.894962, 'longitude': -73.9749874}",103,4.0,07631
+PthBoTeKrksByw8qTJBHxw,Lola On The Grill,662 Tuckahoe Rd,"{'latitude': 40.9534691, 'longitude': -73.8438438}",163,2.5,10710
+DcaF-psH6reTVWSAFr8ueg,El Sabor Express,335 10th Ave,"{'latitude': 40.92443, 'longitude': -74.15111}",2,3.0,07514
+UAlCvAC3bMdm99CQ2EQxyA,La Estrella Latina Bar & Grill,39-07 104th St,"{'latitude': 40.750422, 'longitude': -73.861739}",19,2.5,11368
+X2XC2Obrvb64dzXqxd-Q1g,El Pilon Restaurant,1306 Flatbush Ave,"{'latitude': 40.638175, 'longitude': -73.953666}",9,1.5,11210
+PnmvjrkJUPEf4KVRqzY5Nw,El Pollo 2 Restaurant,4168 Victory Blvd,"{'latitude': 40.59061, 'longitude': -74.19194}",53,3.5,10314
+2cqg0qGfC6bEC1AKGazSXg,Lugo Lounge & Restaurant,1089 Cypress Ave,"{'latitude': 40.696515, 'longitude': -73.899834}",28,2.5,11385
+AGfUWlAYNlCbD2hBDnfyNQ,El Nuevo Jobo Restaurant & Bar,3915 Broadway,"{'latitude': 40.8384209, 'longitude': -73.9422531}",32,3.0,10032
+VD0zrvr53hmaA5cPWBFHKg,El Mangu Sabroso Restaurant,80 W Kingsbridge Rd,"{'latitude': 40.867873, 'longitude': -73.900524}",33,2.0,10468
+Z3zdsOwrsBCZGgw0ojx6vw,Roy's Restaurant & Bar,880 E Tremont Ave,"{'latitude': 40.84272, 'longitude': -73.88594}",40,3.0,10460
+SqM0CKl6aIDwPSzW6W6tfw,Banana King,485 Crooks Ave,"{'latitude': 40.88984, 'longitude': -74.15174}",8,3.0,07011
+lWYrfOifmRSFB68jzgRqKw,D & N Deli,401 Mola Blvd,"{'latitude': 40.9049046033762, 'longitude': -74.118157}",3,5.0,07407
+HJo7Ne2B1xJMEsfzqjSEsQ,Broken Shaker at Freehand New York,23 Lexington Ave,"{'latitude': 40.7396337047183, 'longitude': -73.9845877307744}",180,3.0,10010
+b9Obs2NM5cnWprnrHVVnAg,El Valle Restaurant,508 S Broadway,"{'latitude': 40.9157715, 'longitude': -73.8966904}",22,1.5,10705
+6BHSiKj3BAbaC6oVEheVkA,The New Borinquen Restaurant,252 Park Ave,"{'latitude': 40.75867, 'longitude': -74.18629}",8,3.5,07107
+ciJa_WsJTzeWunfRbs5vfA,Casa Galicia,3709 31st Ave,"{'latitude': 40.7621574401855, 'longitude': -73.9181594848633}",26,3.5,11103
+iWqtZqPRdXicaqS9ViyXSQ,Latin Kitchen,3841 E Tremont Ave,"{'latitude': 40.8244131, 'longitude': -73.8200524}",53,2.5,10465
+R3UYlXa8M7Yt5xQVufZlyg,Mamajuana Cafe Paterson,177 3rd Ave,"{'latitude': 40.9366979178423, 'longitude': -74.1421490594656}",256,3.0,07514
+jaxdjPkVI2AOTHxU4ZmBCA,Goody's Spanish Food & More Restaurant,201 Port Richmond Ave,"{'latitude': 40.6363, 'longitude': -74.13443}",3,4.5,10302
+n2qGHVPkMTCqEpQwNmVgbw,Bayonne Eats,330 Broadway,"{'latitude': 40.658333, 'longitude': -74.122742}",1,4.0,07002
+wcn0RFxvXxYGGNnAFof0DQ,Mi Parador,920 Broadway,"{'latitude': 40.6971703, 'longitude': -73.9361267}",6,1.5,11206
+oDgUIxXri1RmOQVnH0_qCA,J&J Restaruant & Cuchifritos,718 E Tremont Ave,"{'latitude': 40.844966, 'longitude': -73.890611}",20,2.5,10457
+aaLQaaKWpc6y39OTymjj1Q,Empanada Guy,860 St George Ave,"{'latitude': 40.569218, 'longitude': -74.290595}",98,3.0,07095
+MPwBtfOBNW8bq4JLzqV-Jw,El Salvadoreno,1128 Elizabeth Ave,"{'latitude': 40.662173, 'longitude': -74.212852}",61,3.0,07201
+heSLvhydBpyD8GBVAUWkbw,173 Webster Cafe,1692 Webster Ave,"{'latitude': 40.8430514800419, 'longitude': -73.9033452048898}",6,3.5,10457
+15DB2BU403NAIyYrKx-icA,El Gran Malecon Restaurant,234 Knickerbocker Ave,"{'latitude': 40.7027702, 'longitude': -73.9257965}",4,2.5,11207
+IbHTKBJmodymKD4MpKwuAQ,Cravings Tapas Bistro,8 Wilsey Sq,"{'latitude': 40.9798881861691, 'longitude': -74.121748}",283,4.0,07450
+ppcLXGLZlDC0UUMFY2tAAA,Xocolatz Restaurant & Grill,235 Elmer St,"{'latitude': 40.6512031555176, 'longitude': -74.3434371948242}",205,3.5,07090
+QsZI-zh5h4ZhVn12Q0icPw,Paraiso Caribeno,110 E Prospect Ave,"{'latitude': 40.9129, 'longitude': -73.83331}",3,2.5,10550
+6BW4254RGPVWXBwmSfCqfQ,Bahama Breeze,520 Woodbridge Center Dr,"{'latitude': 40.5552244514936, 'longitude': -74.3022606191752}",457,3.5,07095
+0YrwPMxyQie5xCIRq_LWOA,Meson Español,5700 Kennedy Blvd W,"{'latitude': 40.7895144798026, 'longitude': -74.0230072599258}",42,3.5,07093
+FYg7_MOSwT9rVWBp5F9ZEA,El Pollo III,8603 18th Ave,"{'latitude': 40.6069885850069, 'longitude': -74.0027868923801}",80,3.5,11214
+lcj5S0DwHeOePArBEpeJ5A,The Empanada Truck,72 NJ-34,"{'latitude': 40.4289085196093, 'longitude': -74.2955555766821}",4,2.5,08857
+fe864YPFEW_eYL-2z7sUyg,Onis Restaurant,226 Willis Ave,"{'latitude': 40.80859, 'longitude': -73.92305}",23,2.0,10454
+ogZznMF4Rv-10Ob6gDagUw,JC Mar,736 Norstand Ave,"{'latitude': 40.6735687255859, 'longitude': -73.9503936767578}",13,4.5,11216
+8cmf6Sb0Y_WJ-uKmjmn87g,Sabor Tropical Restaurant,2828 John F Kennedy Blvd,"{'latitude': 40.731442, 'longitude': -74.067342}",9,3.0,07306
+3mUIhEhfgCGHvd3k2laP5w,Bahama Breeze,101 Rt 23 S,"{'latitude': 40.8918760161458, 'longitude': -74.2545469414474}",374,3.5,07470
+Lk3wRnbvdzDil5ti32KApQ,El Nuevo Delicioso,410 E 148th St,"{'latitude': 40.81495, 'longitude': -73.91749}",9,3.5,10455
+alyUkpVVyyrdOYxRGFO1UA,Pizzanada,128 Montgomery St,"{'latitude': 40.79272, 'longitude': -74.185544}",42,4.5,07003
+B5ocuFsOhcUgKSpAn3JIoA,Golden Krust Caribbean Restaurant,218-73 Hempstead Ave,"{'latitude': 40.713433, 'longitude': -73.735562}",19,3.0,11429
+5oKMiXTGUJ2NuZo9Yf2XLQ,Catas,538 Market St,"{'latitude': 40.7316, 'longitude': -74.15523}",155,4.0,07105
+rphJgrQfcR1wOOKjyHzGeQ,Vinoco Wine Bar & Tapas Restaurant,147 Mineola Blvd,"{'latitude': 40.7430284, 'longitude': -73.6409019}",313,4.0,11501
+rI2AEfnQVvnFoWn2De96Qg,Saffron Restaurant,16150 Cross Bay Blvd,"{'latitude': 40.6542780937095, 'longitude': -73.8390364032719}",318,4.0,11414
+D_zJLFgHIYSq0o5QtNJBCA,Manu's Tapas Bar & Sushi Lounge,90 Ferry St,"{'latitude': 40.731167, 'longitude': -74.161121}",146,3.5,07105
+_HXzgjxR-TrSOq_dNQBpwQ,La Cazuela Mexican & Honduran Restaurant,61 Ferry St,"{'latitude': 40.45176, 'longitude': -74.37921}",6,4.0,08882
+swF2RJ69uaVuJlwJo7T7dQ,San Antonio,101 Broadway,"{'latitude': 40.8590623, 'longitude': -74.1297341}",6,3.0,07055
+gzyA-vKFS2ybEplWIixneQ,FINCA Tapas Restaurant,20 E Ridgewood Ave,"{'latitude': 40.97951, 'longitude': -74.12033}",205,3.0,07450
+HPGvDgqkzyrHkEvl0DBNaw,La Caravana Restaurant,302 E Jersey St,"{'latitude': 40.651976, 'longitude': -74.1917585}",68,3.0,07206
+trqkRvsvaWr6ChgL_YBLQg,La Pupusa Loca,5910 Bergenline Ave,"{'latitude': 40.78843, 'longitude': -74.01629}",41,3.5,07093
+fWT9PuiuZ0DmGKcNHqPe_w,Ten Bar  and Grill,515 Jackson Ave,"{'latitude': 40.67146, 'longitude': -74.20342}",22,3.0,07201
+tVmfghZ5-ONPVcR_XPL2mQ,El Dorado Spanish Food,218 N Wood Ave,"{'latitude': 40.6317787, 'longitude': -74.2540588}",41,3.5,07036
+34iVdljcQWKr820nBKCpxw,Pollo Campero,25 South Broad St,"{'latitude': 40.660143, 'longitude': -74.216386}",26,2.5,07202
+d9wrWi3jfyUVtUgdyw7NUg,Fruit Punch Cafe,4929 Bergenline Ave,"{'latitude': 40.7829895, 'longitude': -74.0211563}",21,4.0,07093
+haS8LttHjVcrvLaBTMMh0Q,JR Primos,698 Allerton Ave,"{'latitude': 40.86528, 'longitude': -73.86761}",6,2.0,10467
+-y9YWgdLZ2UPkxCHyeE-Xg,Piquillo,John F Kennedy International Airport,"{'latitude': 40.6457722523973, 'longitude': -73.7744483803955}",89,3.0,11464
+pLU33FDyXcexs-AGDNRWwg,Jetty Bar and Grill,832 W Beech St,"{'latitude': 40.5860177, 'longitude': -73.6885018}",128,3.5,11561
+yFnBjAGmSVB9R3DgdNF9fw,Meson Madrid Restaurant,343 Bergen Blvd,"{'latitude': 40.84357, 'longitude': -73.98653}",181,3.0,07650
+a6icUVEOpFBLpTPoANHCcQ,Duo Tapas Bar & Lounge,748 Yonkers Ave,"{'latitude': 40.92312, 'longitude': -73.86526}",45,3.5,10704
+N9WKc72qpppsQEYswpgSUg,Caridad Restaurant,410 E Tremont Ave,"{'latitude': 40.847339, 'longitude': -73.900514}",22,2.0,10457
+7vLAWfhsqS180mALMPIMOg,El Valle Restaurant,733 E Tremont Ave,"{'latitude': 40.84491, 'longitude': -73.88981}",37,2.0,10457
+lcCmlYJZH1kK430sQ4Gbfw,Chimi Grab and Go Bar,200 Harrison St,"{'latitude': 40.8704032, 'longitude': -74.1243456}",24,2.5,07055
+C6JyxvR4ToS3uhNr-UZFtw,LuLu Restaurant,485 E 180th St,"{'latitude': 40.85148, 'longitude': -73.8952}",3,3.5,10457
+MO6EvMqnMDlhhjG-KbIqXw,Ericas Spanish Cuisine,90-40 160th St,"{'latitude': 40.7045334, 'longitude': -73.7998371}",9,2.5,11432
+GcCeWpbp-casqh2fkAWhQw,Lechonera Borinquena Restaurant,1594 Westchester Ave,"{'latitude': 40.8291922826688, 'longitude': -73.8756088167429}",14,1.5,10472
+xDes9swfd7OUV9kh-cLmsQ,Chic King BBQ Restaurant,4205 Bergenline Ave,"{'latitude': 40.7777972, 'longitude': -74.025005}",66,4.5,07087
+8uP6kX4LYLqyb6fJGTXxXw,Delicias Caribena,104 New Main St,"{'latitude': 40.9331972461972, 'longitude': -73.897541408174}",12,2.5,10701
+MG2jFnU0urk2QtJasXO1Qg,El Mamut,91 Broadway,"{'latitude': 40.85916, 'longitude': -74.129254}",39,4.5,07055
+GKFy5-4dVxkKxjWZ3dBDbw,Mompou Tapas Bar & Restaurant,77 Ferry St,"{'latitude': 40.731356, 'longitude': -74.162046}",397,3.5,07105
+qJ_Txk-c2T4qLWaQH47rPQ,Rafaelina Restaurant Bar,2776 Webster Ave,"{'latitude': 40.86593, 'longitude': -73.88561}",19,1.5,10458
+ElKIrwxA3z-g4yZaaAlOGQ,Caridad & Louie's Restaurant,187 S Broadway,"{'latitude': 40.927645, 'longitude': -73.8962283}",83,2.5,10701
+jgQCQmXsPNkfSbrJnHCPfA,D'Carbon Restaurant,855 River St,"{'latitude': 40.94094, 'longitude': -74.14836}",75,3.0,07524
+pLXJSS7rB0dqlFX_kO66Ow,Juliana's Bakery,1176 Elizabeth Ave,"{'latitude': 40.6619356910359, 'longitude': -74.2145426275431}",18,4.0,07201
